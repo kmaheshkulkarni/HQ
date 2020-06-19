@@ -1,0 +1,1743 @@
+DeptID,DeptName,StationID,StationName,SPGroupID,SPGroupName,ParameterID,ParameterName
+2,D928  Engine Line,5,928011L  Engine Deck Frame,66,TLID435  T4 9L Vac Fan Pulley,274,TLID435  Vac Fan Pulleys to Engine Deck
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,7236,TLID 8  T4 9L Engine Mounts,27918,Side Eng Mount 2 18mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,7236,TLID 8  T4 9L Engine Mounts,27919,Rear Eng Mount 2 24mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,7237,TLID 8 T4 135L Engine Mounts,27925,Rear Eng Mount 2 24mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,7237,TLID 8 T4 135L Engine Mounts,27926,Eng Mount to deck 2 18mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,7241,TLID 8 T2T3 9L Engine Mounts,27936,Eng Mount 4 18mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,7249,TLID8  T4 9L Front Eng Mount,31510,TLID8  T4 9L Front Engin Mount Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,8124,TLID8  T4 135L Frnt Eng Mnt,31511,TLID8  T4 135L Alternator Support Bracket
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,8124,TLID8  T4 135L Frnt Eng Mnt,31512,TLID8  T4 135L Front Engine Mount
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,15046,TLID 8  T2T3 Engine Mounts,31617,Mount Plate to Plate 3 18mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,15046,TLID 8  T2T3 Engine Mounts,31614,Eng Mount plates to deck 4 18mm Fasteners
+2,D928  Engine Line,39,928040R  Prep & Mount Engine Sub,19635,TLID XXX  Vac Fan Pulley,96767,TLID XXX  Vac Fan Pulley
+2,D928  Engine Line,61,928110R  Cooling Package,96,TLID 21  Cooling Pkge Torques,374,Cooling Package to Deck
+2,D928  Engine Line,62,928200L  Exhaust,278,TLID 431  Goose Neck Hose,1061,90L Goose Neck Hose
+2,D928  Engine Line,62,928200L  Exhaust,278,TLID 431  Goose Neck Hose,1194,135L Goose Neck Hose
+2,D928  Engine Line,62,928200L  Exhaust,312,TLID 617T2T3 Exhaust Tube,1476,135L T2 Exhaust Tube Clamps
+2,D928  Engine Line,62,928200L  Exhaust,312,TLID 617T2T3 Exhaust Tube,19951,T2T3 9L Exhaust Tube Clamps
+2,D928  Engine Line,62,928200L  Exhaust,5136,TLID78  Exhaust to ATD 1,4139,FT4 Exhaust Tube Clamps Lower
+2,D928  Engine Line,62,928200L  Exhaust,5136,TLID78  Exhaust to ATD 1,39299,FT4 Exhaust Tube Clamps Upper
+2,D928  Engine Line,62,928200L  Exhaust,6141,TLID 1074  Air Inlet,52370,FT4 Tighten plastic tube to boot
+2,D928  Engine Line,72,928060L  Gearcase,4879,TLID 201  Gearcase to Engine,19373,Gearcase to Engine
+2,D928  Engine Line,72,928060L  Gearcase,8010,TLID 200 Assemb Foot hardware,31006,Test
+2,D928  Engine Line,74,928021R  Engine Sub,7691,TLID1135  Turbo Clad Torque,29406,TLID1135  Turbo Clad Torque
+2,D928  Engine Line,116,928080L  Hydro Pump Quill,9682,TLID 1068  Install Quill,38017,Install Quill
+2,D928  Engine Line,137,928080R  Battery Cables Vac Fan,3915,TLID 55 Cooling Fan to Engine,2498,T2 Cooling fan to engine
+2,D928  Engine Line,137,928080R  Battery Cables Vac Fan,3915,TLID 55 Cooling Fan to Engine,2497,FT4 Cooling fan to engine
+2,D928  Engine Line,137,928080R  Battery Cables Vac Fan,6685,TLID 59  Vac Fan to Deck,26274,Vacuum Fan to Engine Deck 4 Fasteners
+2,D928  Engine Line,137,928080R  Battery Cables Vac Fan,7961,TLID 55  9LT2 Cooling Fan,30683,T2 Cooling fan to engine
+2,D928  Engine Line,468,928020R  Alternator Sub,13271,TLID154  Rear Trash Screen,38971,TLID154  T4 135L Rear Trash Screen
+2,D928  Engine Line,468,928020R  Alternator Sub,13271,TLID154  Rear Trash Screen,38969,TLID154  T2T3 9 & 135L Pig Tail
+2,D928  Engine Line,468,928020R  Alternator Sub,13271,TLID154  Rear Trash Screen,38975,TLID154  T4 9L Pig Tail
+2,D928  Engine Line,468,928020R  Alternator Sub,13271,TLID154  Rear Trash Screen,38974,TLID154  T4 9L Rear Trash Screen
+2,D928  Engine Line,468,928020R  Alternator Sub,13271,TLID154  Rear Trash Screen,38968,TLID154  T2T3 9 & 135L Rear Trash Screen
+2,D928  Engine Line,468,928020R  Alternator Sub,13271,TLID154  Rear Trash Screen,38972,TLID154  T4 135L Pig Tail
+2,D928  Engine Line,468,928020R  Alternator Sub,13273,TLID806  T4 135L Front,38970,TLID806  T4 135L Front Trash Screen
+2,D928  Engine Line,468,928020R  Alternator Sub,13273,TLID806  T4 135L Front,38941,TLID806  T4 135L Pulley
+2,D928  Engine Line,468,928020R  Alternator Sub,13278,TLID806  T2T3 Front,38944,TLID806  T2T3 9 & 135L Front Trash Screen
+2,D928  Engine Line,468,928020R  Alternator Sub,13278,TLID806  T2T3 Front,39015,TLID806  T2T3 9 & 135L Pulley
+2,D928  Engine Line,468,928020R  Alternator Sub,13282,TLID806  T4 9L Front,39014,TLID806  T4 9L Pulley
+2,D928  Engine Line,468,928020R  Alternator Sub,13282,TLID806  T4 9L Front,38973,TLID806  T4 9L Front Trash Screen
+2,D928  Engine Line,473,928170R  Top Cover To Deck,5268,TLID 1086  Retain Air Duct,52369,FT4 Tighten Air Duct Tubes
+2,D928  Engine Line,473,928170R  Top Cover To Deck,12906,TLID 1086  Retail Air Duct 2,53392,TLID 1086  Retain Air Duct Second Clamp Air Clean
+3,D925  Combine,29,925080L  LH Torque Final Drive,265,1090 Torque Final Drive,1004,Torque Final Drive
+3,D925  Combine,30,925080RA  RH Torque Final Drive,267,1091  Torque Final Drive,1006,Torque Final Drive
+3,D925  Combine,34,925190L  Discharge BeaterBosch Valve,18669,1536 Discharge Beater Pulley,82596,Discharge Beater Pulley 1HC
+3,D925  Combine,34,925190L  Discharge BeaterBosch Valve,18669,1536 Discharge Beater Pulley,82597,Discharge Beater Pulley 2HC
+3,D925  Combine,37,925040R  LC1 Harness,7689,3856  Vert ACI Cyl Bolts,29391,Torque 8 Vertical ACI Cylinder Bolts
+3,D925  Combine,38,925160RA Jackshaft Tensioner,18925,DC 1357 Cab Step RHS,83786,RH Cab Step to body with 1 fastener
+3,D925  Combine,38,925160RA Jackshaft Tensioner,18926,DC 1427 Cab Step LHS,83787,LH Cab Step to body with 1 fastener
+3,D925  Combine,46,925140R  RH Engine install,149,3928  Engine Platform Torques,616,Torque RH Engine Platform to Body
+3,D925  Combine,46,925140R  RH Engine install,6672,DC 74  Engine to Combine RH,35514,Engine to Combine 1 Fastener
+3,D925  Combine,46,925140R  RH Engine install,6672,DC 74  Engine to Combine RH,35513,Engine to Combine 2 Fastners
+3,D925  Combine,46,925140R  RH Engine install,6672,DC 74  Engine to Combine RH,26257,Engine to Combine RH 4 Fasteners
+3,D925  Combine,46,925140R  RH Engine install,7369,DC 3928b RH Eng 4 Torque,28241,Engine Platform to Chassis with 4 fasteners
+3,D925  Combine,66,925230LA Hose Torque,3736,3901 Attach Hose PreCleaner,54808,3901 Supply Tube to Air Flow Tube
+3,D925  Combine,66,925230LA Hose Torque,6586,3680T4 Attach Debris Tubes,50857,Connect plastic tube to boot on ATD
+3,D925  Combine,66,925230LA Hose Torque,6586,3680T4 Attach Debris Tubes,52371,Connect plastic tube to blower
+3,D925  Combine,78,925260LA Rear Residue Hoses,10384,1660  CCH Steel Lines,40799,CCH Steel Lines
+3,D925  Combine,78,925260LA Rear Residue Hoses,10384,1660  CCH Steel Lines,41593,Snug Bolts
+3,D925  Combine,83,925090LA LH Sieve,2980,1788 Set Louvers on Sieve,12568,General Purpose
+3,D925  Combine,83,925090LA LH Sieve,2980,1788 Set Louvers on Sieve,26339,MY18 General Purpose
+3,D925  Combine,83,925090LA LH Sieve,2980,1788 Set Louvers on Sieve,26340,MY18Deep Tooth
+3,D925  Combine,83,925090LA LH Sieve,2980,1788 Set Louvers on Sieve,12569,Deep Tooth
+3,D925  Combine,111,925110R  RH Grain Tank,1552,1241a  Torque RH GT Part 1,5138,Torque Grain Tank
+3,D925  Combine,111,925110R  RH Grain Tank,4792,1241b  Torque RH GT Part 2,19116,Torque Grain Tank
+3,D925  Combine,111,925110R  RH Grain Tank,4793,1241c  Torque RH GT Part 3,19117,Torque Grain Tank
+3,D925  Combine,112,925120LA  LH Cab install,6637,DC 1382  Cab Roof Bolts LH,26199,Cab Roof Bolts LH
+3,D925  Combine,114,925130R  CGE install,15529,2084 TBP CGE Boot to Chassis,67356,TBP CGE Boot
+3,D925  Combine,148,925180L Stack Valve,4013,3544 Stack Vlv to Combin,16787,3544 Stack Valve to Combine
+3,D925  Combine,177,925270R RH Tire,17525,4522  Torque RH FH Bolt,76495,Right Hand Feederhouse Bolt Torque
+3,D925  Combine,217,925760RSub Power Shaft Sub,6680,Powershaft Clutch End Nut,26266,Powershaft Clutch End 1 Locknut
+3,D925  Combine,217,925760RSub Power Shaft Sub,6681,DC 3179  AFrame Locknut,26269,Powershaft Aframe 1 Locknut
+3,D925  Combine,250,925260RA Rear,4015,3876  Rubber Tube,52374,IR Install Air Supply Tube
+3,D925  Combine,250,925260RA Rear,6679,DC 2045  GT Cross Brace,26264,Grain Tank Cross Brace 4 Fasteners
+3,D925  Combine,250,925260RA Rear,14989,DC 2045 Coyote  GT Cross Bra,65043,Grain Tank Cross Brace 4 Fasteners
+3,D925  Combine,251,925110L LH Grain Tank,1549,1233 Torque Grain Tank Part1,5134,Torque Grain Tank
+3,D925  Combine,251,925110L LH Grain Tank,4784,1233Torque Grain Tank Part 2,19101,Torque Grain Tank
+3,D925  Combine,329,925021R  Sub Transmission Sub,2108,3831 PD Hydro Motor to Trans,7206,Torque 19M7844 Bolts
+3,D925  Combine,329,925021R  Sub Transmission Sub,9061,Torque Verification,38987,Reverse off transducer2 FULL TURNS
+3,D925  Combine,329,925021R  Sub Transmission Sub,9061,Torque Verification,33037,DC tranducer torque2
+3,D925  Combine,329,925021R  Sub Transmission Sub,9087,26 5Speed Fitting,35517,Torque Large 5 Speed Fitting
+3,D925  Combine,344,925140L  LH Engine install,2140,85  Torque Engine Platform,7484,Engine Platform Torques
+3,D925  Combine,344,925140L  LH Engine install,2142,1440  Drive Shaft Bolts,7488,Torque Drive Shaft Bolts
+3,D925  Combine,344,925140L  LH Engine install,6671,DC 85  Engine to Combine LH,35488,Torque Bolt Directly Behind Weld Nut
+3,D925  Combine,344,925140L  LH Engine install,6671,DC 85  Engine to Combine LH,35489,Torque bolt that is facing up
+3,D925  Combine,344,925140L  LH Engine install,6671,DC 85  Engine to Combine LH,28568,Engine bolt and nut fasteners
+3,D925  Combine,344,925140L  LH Engine install,6671,DC 85  Engine to Combine LH,28539,Engine bolt into weld nut
+3,D925  Combine,380,925250L Chopper Jackshaft,6677,DC 3608  Jackshaft Eyebolts,26262,Jackshaft Eye Bolts 2 Fasteners
+3,D925  Combine,382,925151R  Sub Chaffer,2431,3946 Chaffer Setting  Driver,26930,Deep Tooth  Driver
+3,D925  Combine,382,925151R  Sub Chaffer,2431,3946 Chaffer Setting  Driver,9112,General Purpose  Driver
+3,D925  Combine,382,925151R  Sub Chaffer,2432,3946 Chaffer Setting  10mm,9113,General Purpose  10mm Setting
+3,D925  Combine,382,925151R  Sub Chaffer,2432,3946 Chaffer Setting  10mm,27066,Deep Tooth  10mm Setting
+3,D925  Combine,391,925200L Steel Lines,18709,3549P2 Hose Bundle to combine,82720,CCH tighten hose bundle bolts
+3,D925  Combine,391,925200L Steel Lines,18709,3549P2 Hose Bundle to combine,82719,OCH hose bundle to combine
+3,D925  Combine,480,925120R  RH Cab install,6638,DC 1380  Cab Roof Bolts RH,26201,Cab Roof Bolts RH
+3,D925  Combine,480,925120R  RH Cab install,6670,DC 1250  Cab to Chassis Front,28112,Upper horizontal 4 Fasteners
+3,D925  Combine,480,925120R  RH Cab install,6670,DC 1250  Cab to Chassis Front,26255,Vertical 8 Fasteners
+3,D925  Combine,480,925120R  RH Cab install,6670,DC 1250  Cab to Chassis Front,30996,Cab Isolator Bolts 2
+3,D925  Combine,480,925120R  RH Cab install,7184,1330  Inner Rear Cab Mount,27806,Torque Inner Rear Cab Mounts
+3,D925  Combine,482,925180R  Belt Alignment,17522,4573  Spreader Rail,76491,Spreader Washer Strip and Rail
+3,D925  Combine,482,925180R  Belt Alignment,17523,4569  RH Chopper Rail,76492,Torque Vertical Bolts 18mm
+3,D925  Combine,482,925180R  Belt Alignment,17523,4569  RH Chopper Rail,76493,Torque Horizontal Bolts 15mm
+3,D925  Combine,486,925240R,17559,4670 AIMCO 5 Torque,76585,Torque 5 Bolt on Loading Auger
+3,D925  Combine,565,925100L  Driveshaft,8489,1441  Drive Shaft to Gearbox,33004,Torque Drive Shaft to Power Shaft
+3,D925  Combine,565,925100L  Driveshaft,15527,1105 AHC valve to combine,67354,Tighten 1st two AHC valve bolts
+3,D925  Combine,565,925100L  Driveshaft,15527,1105 AHC valve to combine,68411,Tighten 2nd two AHC bolts
+3,D925  Combine,590,925260RB Front,7359,DC 2088 RH GT Brace,28205,Torque 3 24mm bolts on brace with DC Tool
+3,D925  Combine,595,925100RB RethresherTailings 2,15528,3129 Lower Rethresher,67355,Lower Rethresher
+3,D925  Combine,595,925100RB RethresherTailings 2,15602,3938 Lower Tailings,67873,Tq 5 joints  lower Tailings Elevator to chassis
+3,D925  Combine,600,925080RB Reel Pump & Front,7368,1766 DC  Variable Sheave,28240,Torque Variable Sheave 1 fastener DC tool
+3,D925  Combine,620,925730R  Sub CGE Jackshaft,6683,DC 3190Clutch 30mm Locknut,26272,Clutch to jackshaft 30mm locknut
+3,D925  Combine,620,925730R  Sub CGE Jackshaft,6684,DC 3189Sheave 30mm Locknut,26273,Sheave to jackshaft 30mm locknut
+3,D925  Combine,630,925160LB 4WD,11157,3528  OCH 4WD Flow Limiter R,44000,3528  Hoses to Rear of Flow Limiter
+3,D925  Combine,630,925160LB 4WD,15764,3530  OCH 4WD Flow Limiter F,44001,3530  Hoses to Front of Flow Limiter
+3,D925  Combine,638,925170R  Tailboard,8404,1416 Tailboard Fingers IR,32579,Torque 6 bolts with IR tool
+3,D925  Combine,687,925020L  Transmission Install,6029,3493 Trans To Chassis,23822,Torque Transmission to Chassis
+3,D925  Combine,773,925230LB Front,6675,1856  Cab Ladder Torque,26260,Dual Cab Ladder Installation
+3,D925  Combine,933,925250R  Rear Ladder Landing,19009,DC 1595Swingout Ladder Torque,83965,Swingout Ladder Torque 1 Fastener
+3,D925  Combine,989,925051R Sub Extensions,8690,Torque Tooling 20,33921,CERESAN & CERABAM
+3,D925  Combine,989,925051R Sub Extensions,8690,Torque Tooling 20,33922,CERESAR & SERESAS or S1X1
+3,D925  Combine,990,925052R Rear Axle,8703,Torque Rear Axle,33960,Torque Rear Axle Bolts
+3,D925  Combine,990,925052R Rear Axle,9640,Torque Verification,37974,DC transducer torque 2
+3,D925  Combine,990,925052R Rear Axle,9640,Torque Verification,37973,Torque 1
+3,D925  Combine,990,925052R Rear Axle,10022,Torque Tie Rod,39045,Torque 1
+3,D925  Combine,1028,925050L Axle Install,9084,37253726  Torque Rear Axle,35504,Torque Rear Axle
+3,D925  Combine,1301,925070L  LH Install Final Drive,15526,3044 Reel Pump Install,67353,Reel Pump Install
+3,D925  Combine,1301,925070L  LH Install Final Drive,15698,3043 Autotrac Install,68618,Autotrac Install
+3,D925  Combine,1827,925180L Rear Chopper Install,17515,4567  Chopper Rail,76482,Torque Vertical Bolts 18mm
+3,D925  Combine,1827,925180L Rear Chopper Install,17515,4567  Chopper Rail,76483,Torque Horizontal Bolts 15mm
+3,D925  Combine,1827,925180L Rear Chopper Install,17516,4574  Spreader Rail,76484,Spreader Washer Strip and Rail
+3,D925  Combine,1828,925270L Front Feederhouse Install,17531,4523  Torque LH FH Bolt,76504,Left Hand Feederhouse Bolt Torque
+5,D561  Draper Assy,13,561 Operator 12,7924,30 FD,12225,TLID 16871Torque AHHC Paddles to Rod
+5,D561  Draper Assy,13,561 Operator 12,7925,35 FD,4281,TLID 709Torque AHHC Paddles to Rod
+5,D561  Draper Assy,13,561 Operator 12,7926,40 FD,4282,TLID 708Torque AHHC rod hardware
+5,D561  Draper Assy,13,561 Operator 12,7927,45 FD,6781,TLID 18252Torque AHHC Paddles to Rod
+5,D561  Draper Assy,19,561 Operator 40,6196,25RD,32333,TLID 406 Torque Float Cylinders
+5,D561  Draper Assy,19,561 Operator 40,6196,25RD,32675,TLID 404 Torque Gauge Wheel
+5,D561  Draper Assy,19,561 Operator 40,6197,30RD,33480,TLID 987  RH Transport Brace
+5,D561  Draper Assy,19,561 Operator 40,6197,30RD,32339,TLID 404  Torque Transport
+5,D561  Draper Assy,19,561 Operator 40,6197,30RD,32340,TLID 406  DKD Torque Float Cylinders
+5,D561  Draper Assy,19,561 Operator 40,6197,30RD,32338,TLID 404 Torque Gauge Wheel
+5,D561  Draper Assy,19,561 Operator 40,6197,30RD,34568,TLID 406  SKD Torque Float Cylinder
+5,D561  Draper Assy,19,561 Operator 40,6198,35RD,33481,TLID 987  RH Transport Brace
+5,D561  Draper Assy,19,561 Operator 40,6198,35RD,32331,TLID 404  Torque Gauge Wheel
+5,D561  Draper Assy,19,561 Operator 40,6198,35RD,32337,TLID 404  Torque Transport
+5,D561  Draper Assy,19,561 Operator 40,6198,35RD,32335,TLID 406  Torque Float Cylinders
+5,D561  Draper Assy,19,561 Operator 40,6199,40RD,33482,TLID 987  RH Transport Brace
+5,D561  Draper Assy,19,561 Operator 40,6199,40RD,32341,TLID 404  Torque Gauge Wheel
+5,D561  Draper Assy,19,561 Operator 40,6199,40RD,32342,TLID 404  Torque Transport
+5,D561  Draper Assy,19,561 Operator 40,6199,40RD,32336,TLID 406  Torque Float Cylinders
+5,D561  Draper Assy,20,561 Operator 50,3042,30 FD,32323,TLID 18369  Torque LH OFA to frame
+5,D561  Draper Assy,20,561 Operator 50,3045,35 FD,32324,TLID 18369  Torque LH OFA to frame
+5,D561  Draper Assy,20,561 Operator 50,3046,40 FD,32325,TLID 18369  Torque LH OFA to frame
+5,D561  Draper Assy,20,561 Operator 50,3408,45 FD,32326,TLID 18369  Torque LH OFA to frame
+5,D561  Draper Assy,20,561 Operator 50,4816,20PLAT,32318,TLID 230  600F Torque LH Stablizer to frame
+5,D561  Draper Assy,20,561 Operator 50,4817,22PLAT,32319,TLID 230  600F Torque LH Stablizer to frame
+5,D561  Draper Assy,20,561 Operator 50,4818,25PLAT,32320,TLID 230  600F Torque LH Stablizer to frame
+5,D561  Draper Assy,20,561 Operator 50,4819,30PLAT,32322,TLID 230 600F  Torque LH Stablizer to frame
+5,D561  Draper Assy,20,561 Operator 50,4820,35PLAT,32321,TLID 230 600F  Torque LH Stablizer to frame
+5,D561  Draper Assy,21,561 Operator 60,3121,30FD,15500,TLID 18276 Torque LHS CFA Pivot Bolt
+5,D561  Draper Assy,21,561 Operator 60,3122,35FD,15499,18276 Torque LHS CFA Pivot Bolt
+5,D561  Draper Assy,21,561 Operator 60,3123,40FD,15498,TLID 18276   Torque LHS CFA Pivot Bolt
+5,D561  Draper Assy,21,561 Operator 60,3146,45FD,14468,TLID 18276 Torque LHS CFA Pivot Bolt
+5,D561  Draper Assy,103,561 Operator 101,3205,30FD,23358,TLID 18470  Greenbar Bolts
+5,D561  Draper Assy,103,561 Operator 101,3205,30FD,17870,TLID 74  Draper Knife Drive Gear Case
+5,D561  Draper Assy,103,561 Operator 101,3209,25RD,13382,TLID 588 Draper Knife Drive Gear Case Torques
+5,D561  Draper Assy,103,561 Operator 101,3235,35FD,23359,TLID 18470  Greenbar Bolts
+5,D561  Draper Assy,103,561 Operator 101,3235,35FD,17871,TLID 74 600FD DKD Draper Knife Drive Gear Case
+5,D561  Draper Assy,103,561 Operator 101,3286,30RD,13683,TLID 588 Draper Knife Drive Gear Case Torques
+5,D561  Draper Assy,103,561 Operator 101,3287,35RD,13692,TLID 588 Draper Knife Drive Gear Case Torques
+5,D561  Draper Assy,103,561 Operator 101,3288,40RD,13701,TLID 588 Draper Knife Drive Gear Case Torques
+5,D561  Draper Assy,103,561 Operator 101,3305,40FD,13816,TLID 74 600FD DKD  Draper Knife Drive Gear Case
+5,D561  Draper Assy,103,561 Operator 101,3305,40FD,23357,TLID18470  Greenbar Bolts
+5,D561  Draper Assy,103,561 Operator 101,5645,45FD,21887,TLID 74 Draper Knife Drive Gear Case
+5,D561  Draper Assy,103,561 Operator 101,5645,45FD,23360,TLID18470  Greenbar Bolts
+5,D561  Draper Assy,104,561 Operator 110,3487,30FD,14613,TLID 294  600FD  Assemble LH Bearing Bolts
+5,D561  Draper Assy,104,561 Operator 110,3487,30FD,23363,TLID18477  600FD Greenbar Bolts
+5,D561  Draper Assy,104,561 Operator 110,3487,30FD,14612,TLID 294 600FD  Assemble LH Gear Case
+5,D561  Draper Assy,104,561 Operator 110,3489,35FD,14640,TLID 294 600FD  Assemble LH bearing bolts
+5,D561  Draper Assy,104,561 Operator 110,3489,35FD,14639,TLID 294 600FD  Assemble LH Knife Drive GC
+5,D561  Draper Assy,104,561 Operator 110,3489,35FD,23364,TLID 18477 600FD Greenbar Bolts
+5,D561  Draper Assy,104,561 Operator 110,3491,40FD,23361,TLID 18477 600FD Greenbar Bolts
+5,D561  Draper Assy,104,561 Operator 110,3491,40FD,14666,TLID 294 600FD  Assemble LH knife drive GC
+5,D561  Draper Assy,104,561 Operator 110,3491,40FD,14667,TLID 294 600FD  Assemble LH knife bearing bolts
+5,D561  Draper Assy,104,561 Operator 110,3492,20PLAT,14682,TLID 306 600F Assemble Gearbox to Frame
+5,D561  Draper Assy,104,561 Operator 110,3492,20PLAT,14683,TLID307 600F  Align Knife  Assemble to Gearbox
+5,D561  Draper Assy,104,561 Operator 110,3493,22PLAT,14692,TLID 306 600F  Assemble Gearbox to Frame
+5,D561  Draper Assy,104,561 Operator 110,3493,22PLAT,14693,TLID 307 600F  Align Knife  Assemble to Gearbox
+5,D561  Draper Assy,104,561 Operator 110,3494,25PLAT,14703,TLID 307 600F  Align Knife  Assemble to Gearbox
+5,D561  Draper Assy,104,561 Operator 110,3494,25PLAT,14702,TLID 306 600F  Assemble Gearbox to Frame
+5,D561  Draper Assy,104,561 Operator 110,3495,30PLAT,14713,TLID 307 600F  Align Knife  Assemble to Gearbox
+5,D561  Draper Assy,104,561 Operator 110,3495,30PLAT,14712,TLID 306 600F  Assemble Gearbox to Frame
+5,D561  Draper Assy,104,561 Operator 110,3496,35PLAT,14723,TLID 307 600F  Align Knife \ Assemble to Gearbox
+5,D561  Draper Assy,104,561 Operator 110,3496,35PLAT,14722,TLID 306 600F  Assemble Gearbox to Frame
+5,D561  Draper Assy,104,561 Operator 110,3497,25RD,14876,TLID 160 600D Prepare Knife for Gearbox Assy
+5,D561  Draper Assy,104,561 Operator 110,3497,25RD,14875,TLID 160 600D Assemble Left Hand Gearcase
+5,D561  Draper Assy,104,561 Operator 110,3552,30RD,14901,TLID 160 600D Prepare Knife for Gearbox Assy
+5,D561  Draper Assy,104,561 Operator 110,3552,30RD,14900,TLID 160 600D Assemble Left Hand Gearcase
+5,D561  Draper Assy,104,561 Operator 110,3553,35RD,14911,TLID 160 600D Assemble Left Hand Gearcase
+5,D561  Draper Assy,104,561 Operator 110,3553,35RD,14912,TLID 160 600D Prepare Knife for Gearbox Assy
+5,D561  Draper Assy,104,561 Operator 110,3555,40RD,14926,TLID 160 600D Assemble Left Hand Gearcase
+5,D561  Draper Assy,104,561 Operator 110,3555,40RD,14927,TLID 160 600D Prepare Knife for Gearbox Assy
+5,D561  Draper Assy,104,561 Operator 110,5646,45FD,21905,TLID 294 600FD  Assemble LH knife bearing bolts
+5,D561  Draper Assy,104,561 Operator 110,5646,45FD,21904,TLID 294 600FD  Assemble LH knife drive GC
+5,D561  Draper Assy,104,561 Operator 110,5646,45FD,23365,TLID 18477 600FD Greenbar Bolts
+5,D561  Draper Assy,125,561 Operator 61,3133,30FD,14795,Python Torque RHS CFA Pivot Bolt TlID 18382
+5,D561  Draper Assy,125,561 Operator 61,3134,35FD,14796,TLID 18382 Torque RHS CFA Pivot Bolt
+5,D561  Draper Assy,125,561 Operator 61,3135,40FD,14797,TLID 18382  Torque RHS CFA Pivot Bolt
+5,D561  Draper Assy,125,561 Operator 61,3136,45FD,14798,TLID 18382 Torque RHS CFA Pivot Bolt
+5,D561  Draper Assy,552,561 Operator 31,4821,20PLAT,19217,TLID 130Torque Auger bolt using DC Tool to 140Nm
+5,D561  Draper Assy,552,561 Operator 31,4821,20PLAT,26670,TLID 129600FTorque Timing Casting
+5,D561  Draper Assy,552,561 Operator 31,4822,22PLAT,26669,TLID 129600FTorque Timing Casting
+5,D561  Draper Assy,552,561 Operator 31,4822,22PLAT,19219,TLID 130Torque Auger bolt using DC Tool to 140Nm
+5,D561  Draper Assy,552,561 Operator 31,4823,25PLAT,19220,TLID 130Torque Auger bolt using DC Tool to 140Nm
+5,D561  Draper Assy,552,561 Operator 31,4823,25PLAT,26668,TLID 129600FTorque Timing Casting
+5,D561  Draper Assy,552,561 Operator 31,4824,30PLAT,19221,TLID 130Torque Auger bolt using DC Tool to 140Nm
+5,D561  Draper Assy,552,561 Operator 31,4824,30PLAT,26666,TLID 129600FTorque Timing Casting
+5,D561  Draper Assy,552,561 Operator 31,4825,35PLAT,26667,TLID 129600FTorque Timing Casting
+5,D561  Draper Assy,552,561 Operator 31,4825,35PLAT,19222,TLID 130Torque Auger bolt using DC Tool to 140Nm
+5,D561  Draper Assy,553,561 Operator 51,4908,30FD,30250,TLID 18099  Torque RH OFA to frame
+5,D561  Draper Assy,553,561 Operator 51,4915,35FD,30471,TLID 18099  Torque RH OFA to frame
+5,D561  Draper Assy,553,561 Operator 51,4916,40FD,30472,TLID 18099  Torque RH OFA to frame
+5,D561  Draper Assy,553,561 Operator 51,5321,35PLAT,30474,TLID 338  635F Torque RH stabalizer
+5,D561  Draper Assy,553,561 Operator 51,5613,45FD,30473,TLID 18099  Torque RH OFA to frame
+5,D561  Draper Assy,677,561 Cutterbar Sub,5870,620622F Verify PLT Cutterbar,30849,Torque 22 Platform
+5,D561  Draper Assy,677,561 Cutterbar Sub,5870,620622F Verify PLT Cutterbar,29418,Torque 20 Platform
+5,D561  Draper Assy,677,561 Cutterbar Sub,5924,625F Verify PLT Cutterbar,30850,Torque 25 Platform
+5,D561  Draper Assy,677,561 Cutterbar Sub,5925,630F Verify PLT Cutterbar,30851,Torque 30 Platform
+5,D561  Draper Assy,677,561 Cutterbar Sub,5926,635F Verify PLT Cutterbar,30852,Torque 35 Platform
+7,D922  Horseshoe,69,FPY92201 A Main Feederhouse LH,1239,211  Torque LH FH Bolt,3904,Left Hand Feederhouse Bolt Torque
+7,D922  Horseshoe,188,FPY92202 A Main Feederhouse RH,1247,210  Torque RH FH Bolt,3912,Right Hand Feederhouse Bolt Torque
+7,D922  Horseshoe,410,FPY92207 A Main Loading Auger Install,8016,528  AIMCO 5 Torque,31041,Torque 5 Bolt on Loading Auger
+7,D922  Horseshoe,726,FPY92209 B Main Chopper LH,7444,412  Chopper Rail,28419,Torque Vertical Bolts 18mm
+7,D922  Horseshoe,726,FPY92209 B Main Chopper LH,7444,412  Chopper Rail,28416,Torque Horizontal Bolts 15mm
+7,D922  Horseshoe,726,FPY92209 B Main Chopper LH,7445,426  Spreader Rail,28417,Spreader Washer Strip and Rail
+7,D922  Horseshoe,727,FPY92210 A Main Chopper RH,7438,415  RH Chopper Rail,28406,Torque Vertical Bolts 18mm
+7,D922  Horseshoe,727,FPY92210 A Main Chopper RH,7438,415  RH Chopper Rail,28407,Torque Horizontal Bolts 15mm
+7,D922  Horseshoe,727,FPY92210 A Main Chopper RH,7442,425  Spreader Rail,28413,Spreader Washer Strip and Rail
+8,D925600  Grain Tank,722,925670  Swing Cylinder to GT,14997,Torque Swing Cylinder Plate,65077,Torque Swing Cylinder Mount Plate
+10,D965  Feederhouse,419,965190L A Main Torque Plate,3794,Torque Complete,12319,Atlas Copco Torques  ETN 92116
+10,D965  Feederhouse,419,965190L A Main Torque Plate,3794,Torque Complete,11117,Atlas Copco Torques  ETN8326
+10,D965  Feederhouse,419,965190L A Main Torque Plate,3794,Torque Complete,12524,Atlas Copco Torques  ETN19605
+10,D965  Feederhouse,419,965190L A Main Torque Plate,3794,Torque Complete,11114,Torque Bolts on Upper Stop Plate 1
+10,D965  Feederhouse,504,965010L A Main LHS Vert Shell,3451,Torque Complete,28095,C Tighten Front Floor Mounting HW
+10,D965  Feederhouse,504,965010L A Main LHS Vert Shell,3451,Torque Complete,28100,5S Tighten Idler Bracket
+10,D965  Feederhouse,504,965010L A Main LHS Vert Shell,3451,Torque Complete,28965,5S Tighten Stiffner Bracket
+10,D965  Feederhouse,504,965010L A Main LHS Vert Shell,3451,Torque Complete,28101,C L5S Tighten Idler Bracket and Plug
+10,D965  Feederhouse,508,965030L A Main LHS Midfloor,3474,Torque Complete,28106,TLID 33  Tighten 4 Floor Bolts LHS
+10,D965  Feederhouse,508,965030L A Main LHS Midfloor,3474,Torque Complete,28102,TLID1695  Tighten 4 UShaft Side HW 1 Strip Bolt
+10,D965  Feederhouse,509,965030R A Main RHS Midfloor,3480,Torque Complete,28108,TLID 153  Tighten 2 Floor Bolts RHS
+10,D965  Feederhouse,509,965030R A Main RHS Midfloor,3480,Torque Complete,28107,TLID1696 Tighten 4 UShaft Side Hdw 1 Strip Bolt
+10,D965  Feederhouse,510,965032R A Sub Drum Arms,3485,Torque Complete,28114,TLID 38  C Torque RH Drum Arm to PMF
+10,D965  Feederhouse,510,965032R A Sub Drum Arms,3485,Torque Complete,28113,TLID 39Assemble Drum & LH Drum Arm To PMF 2 Op
+10,D965  Feederhouse,514,965043L A Sub Rear Sheave Sub,3525,Torque Complete,15430,Variable Cylinder Torque DC
+10,D965  Feederhouse,514,965043L A Sub Rear Sheave Sub,7922,Torque Variable Hub Bolts,28115,TLID 572  VD Sub Assemble Variable Sheave
+10,D965  Feederhouse,517,965120L A Main Uppershaft Bolts,18902,Torque Complete,15524,Torque Uppershaft Bolts DC
+10,D965  Feederhouse,517,965120L A Main Uppershaft Bolts,18902,Torque Complete,83937,Torque Conv Chain Wear Strips  TBP
+10,D965  Feederhouse,521,965130L A Main LHS Midfloor Eyebolt,3631,Torque Complete,83800,Torque LHS Midfloor Bolt DC
+10,D965  Feederhouse,522,965130R A Main Conveyor Chain,3636,Torque Complete,12808,Conveyor Chain Torques DC
+10,D965  Feederhouse,528,965160R A Main Wiring Harness,15225,Torque Complete,84544,Torque LHS Midfloor Bolt DC
+10,D965  Feederhouse,587,965020L A Main Uppershaft,4176,Torque Complete,28091,TLID 11 Install 2 Bearings On Uppershaft Castings
+10,D965  Feederhouse,739,965040L A Main Uppershaft Sprockets,6372,Torque Complete 965040L,28092,TLID 44  Install 16 Set Screws Chain Sprockets
+10,D965  Feederhouse,1315,965190R A Main Torque PlateFABeam,19349,Torque Complete,11157,Torque Bolts on Upper Stop Plate 2
+11,D921  Body,124,921200L  Main St 6 LH Side,6277,Torque Extension LH,25153,Torque TOP Bolt to Attach Extension
+11,D921  Body,124,921200L  Main St 6 LH Side,6277,Torque Extension LH,25285,Torque 2ND Bolt to Attach Extension
+11,D921  Body,124,921200L  Main St 6 LH Side,6277,Torque Extension LH,25527,Torque bottom 2 bolts on extension
+11,D921  Body,124,921200L  Main St 6 LH Side,6277,Torque Extension LH,25286,Torque 3 Lower Bolts to Attach Extension
+11,D921  Body,224,921200R  Main St 6 RH Side,6278,Torque Extension RH,25284,Torque 4TH Bolt to Attach Extension
+11,D921  Body,224,921200R  Main St 6 RH Side,6278,Torque Extension RH,25640,Torque Bottom Bolt to Attach Extension
+11,D921  Body,224,921200R  Main St 6 RH Side,6278,Torque Extension RH,25154,Torque TOP Bolt to Attach Extension
+11,D921  Body,224,921200R  Main St 6 RH Side,6278,Torque Extension RH,25283,Torque 2ND and 3RD Bolts to Attach Extension
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9058,Torque Elements to Wings
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9052,Torque Hubs to Shaft
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9055,Torque Wings to Remaining Hubs
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9057,Torque Elements to Wings
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9059,Torque Elements to Wings
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9104,Torque Wings to Remaining Hubs
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9056,Torque Wings to Remaining Hubs 
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9053,Torque Wings to Inner Hub
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9103,Torque Wings to Inner Hub
+11,D921  Body,278,921074 DB2 Sub Discharge Beater 2,2422,Torques,9054,Torque Wings to Inner Hub
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5701,Torque Elements to Wings
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5706,Torque Elements to Wings
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5704,Torque Wings to Remaining Hubs 
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5705,Torque Elements to Wings
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5707,Torque Wings to Inner Hub
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5700,Torque Hubs to Shaft
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5703,Torque Wings to Inner Hub
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,9101,Torque Wings to Inner Hub
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,5702,Torque Wings to Remaining Hubs
+11,D921  Body,279,921074 DB1 Sub Discharge Beater 1,1726,Torques,9102,Torque Wings to Remaining Hubs
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9047,Torque Elements to Wings
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9049,Torque Wings to Remaining Hubs
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9051,Torque Elements to Wings
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9048,Torque Wings to Inner Hub
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9045,Torque Wings to Inner Hub
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9050,Torque Elements to Wings
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9044,Torque Hubs to Shaft
+11,D921  Body,309,921072 FB2 Sub Feed Beater 2,2420,Torques,9046,Torque Wings to Remaining Hubs
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6354,Torque Hubs to Shaft
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6361,Torque Wings to Inner Hub
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6355,Torque Wings to Remaining Hubs
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6360,Torque Elements to Wings
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6357,Torque Elements to Wings
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6359,Torque Wings to Inner Hub
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,6356,Torque Elements to Wings
+11,D921  Body,310,921072 FB1 Sub Feed Beater 1,1931,Torques,9043,Torque Wings to Remaining Hubs
+11,D921  Body,603,921080R  Main St 4 RH Side,4482,Torque,17863,Torque 2
+11,D921  Body,603,921080R  Main St 4 RH Side,4482,Torque,41382,Single Torque320Nm
+11,D921  Body,603,921080R  Main St 4 RH Side,4482,Torque,17862,Torque
+11,D921  Body,621,921080L  Main St 4 LH Side,4796,Torque,19145,Swinger Arm Torque
+11,D921  Body,621,921080L  Main St 4 LH Side,4796,Torque,19144,Swinger Arm Torque
+11,D921  Body,621,921080L  Main St 4 LH Side,4796,Torque,41374,First Swinger Arm Torque
+11,D921  Body,658,921090R  Main St 5 RH Side,7424,Auger Bed Cross Shaft,28391,Auger Bed Cross Shaft TLID 7821
+11,D921  Body,658,921090R  Main St 5 RH Side,7426,Connect Separator RHS,28393,Connect Separator TLID 8086
+11,D921  Body,658,921090R  Main St 5 RH Side,7427,Mid Bulk Head RHS,28394,Mid Bulk Head TLID3655
+11,D921  Body,658,921090R  Main St 5 RH Side,7428,RHS Front Seal,28395,RHS Front Seal TLID 941
+11,D921  Body,658,921090R  Main St 5 RH Side,7429,Separator Bracket RHS,28396,Separator Bracket TLID 8086
+11,D921  Body,658,921090R  Main St 5 RH Side,7430,Front Bulk Head RHS,28397,Front Bulk Head TLID 3655
+11,D921  Body,658,921090R  Main St 5 RH Side,7432,Flywheel to Drive Shaft,28399,Flywheel to Drive Shaft TLID 774 110
+11,D921  Body,658,921090R  Main St 5 RH Side,7433,Conveyor Auger Drive Pulley,28400,Conveyor Auger Drive Pulley TLID 761
+11,D921  Body,662,921051R  Sub RH Sieve Final Assembly,5682,Torque Steps,22253,Secure Clean Grain Floor Sheet
+11,D921  Body,662,921051R  Sub RH Sieve Final Assembly,5682,Torque Steps,22254,Secure Ear Seal
+11,D921  Body,662,921051R  Sub RH Sieve Final Assembly,5682,Torque Steps,22051,Secure Front crossbar to sidesheet
+11,D921  Body,662,921051R  Sub RH Sieve Final Assembly,5682,Torque Steps,22050,Secure Rear crossbar to sidesheet
+11,D921  Body,662,921051R  Sub RH Sieve Final Assembly,5682,Torque Steps,22252,Secure Tailings Floor Sheet
+11,D921  Body,663,921051L  Sub LH Sieve Final Assembly,5714,Torque Steps,22258,Secure Front crossbar to sidesheet
+11,D921  Body,663,921051L  Sub LH Sieve Final Assembly,5714,Torque Steps,22259,Secure Rear crossbar to sidesheet
+11,D921  Body,663,921051L  Sub LH Sieve Final Assembly,5714,Torque Steps,22262,Secure Ear Seal
+11,D921  Body,663,921051L  Sub LH Sieve Final Assembly,5714,Torque Steps,22260,Secure Tailings Floor Sheet
+11,D921  Body,663,921051L  Sub LH Sieve Final Assembly,5714,Torque Steps,22261,Secure Clean Grain Floor Sheet
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22280,Secure the Rear Side Seal to the sidesheet
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22282,Install Guide Rail Hanger HWR
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22286,Secure Airbox to the crossbar and Louver to sides
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22283,Secure the Extension Bracket
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22285,Secure Front crossbar to sidesheet
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22281,Secure the tailboard mounting plate
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22279,Secure the Rear Floor
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22278,Secure Rear crossbar to sidesheet
+11,D921  Body,668,921052L  Sub LH Chaffer Final Assembly,5719,Torque Step,22284,Secure the LH Guide Rail
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22294,Secure the Rear Side Seal to the sidesheet
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22293,Secure the Rear Floor
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22297,Secure the Extension Bracket
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22298,Secure the RH Guide Rail
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22300,Secure Airbox to the crossbar and  Louver to sides
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22292,Secure Rear crossbar to sidesheet
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22299,Secure Front crossbar to sidesheet
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22295,Secure the tailboard mounting plate
+11,D921  Body,669,921052R  Sub RH Chaffer Final Assembly,5720,Torque Step,22296,Install Guide Rail Hanger HWR
+11,D921  Body,775,921310R  Main St 7 RH Side,6678,Ram Support to Axle TLID 8019,26263,Ram Support to Axle TLID 8019
+11,D921  Body,775,921310R  Main St 7 RH Side,8067,Ram support to axle first,31213,Ram Support to Axle TLID 8019
+11,D921  Body,775,921310R  Main St 7 RH Side,18552,Front Ram Support,81728,Ram Support TLID 484 and 72
+11,D921  Body,775,921310R  Main St 7 RH Side,18919,Front Axle TLID 117,83779,Front Axle TLID 117 qty1
+11,D921  Body,782,921070L  Main St 3 LH Side,6665,Torque Step 2 TLID 478,26248,Torque Step 2 TLID 478
+11,D921  Body,782,921070L  Main St 3 LH Side,6701,Torque Step 1 TLID 478,26307,Torque Step 1 TLID 478
+11,D921  Body,782,921070L  Main St 3 LH Side,6702,Torque Step 3 TLID 7771,26308,Torque Step 3 TLID 7771
+11,D921  Body,782,921070L  Main St 3 LH Side,6703,Torque Step 4 TLID 478,26309,Torque Step 4 TLID 478
+11,D921  Body,784,921310L  Main St 7 LH Side,6682,Front Axle TLID 117,26270,Front Axle TLID 117 qty1
+11,D921  Body,784,921310L  Main St 7 LH Side,7239,Front Ram Support,27931,Ram Support TLID 484 and 72
+11,D921  Body,802,921203 A Sub Overshot Beater,6673,Hub Bolts,26258,Hub Bolts TLID 7993
+11,D921  Body,802,921203 A Sub Overshot Beater,7069,Wing Bolts,27523,Wing Bolts TLID 7993
+11,D921  Body,802,921203 A Sub Overshot Beater,7070,Wear Strip Bolts,27524,Wear Strip Bolts TLID 7993
+11,D921  Body,1087,921058 A Sub Chaffer SubAirbox,9451,IR Torque Step,37340,IR
+13,D927  Cab,168,927050R A Main Harnesses Install,7797,Panasonic Torques,50659,Torque Can Connector
+13,D927  Cab,168,927050R A Main Harnesses Install,12211,IR Torque Steps,51177,Torque Plastic Channel or Cover
+13,D927  Cab,168,927050R A Main Harnesses Install,12211,IR Torque Steps,51179,Torque Pro Drive Cover Cover
+13,D927  Cab,168,927050R A Main Harnesses Install,12211,IR Torque Steps,84755,Torque Push Pull Cover
+13,D927  Cab,182,927010R A Main Cab Launch,12149,Torque LH Interior Bracket,50438,Torque LH Interior Bracket
+13,D927  Cab,182,927010R A Main Cab Launch,12154,Torque Subwoofer,50450,Torque Subwoofer with IR Tool
+13,D927  Cab,183,927080R A Main SeatController Box Install,1673,Torque Seat,6721,Torque SeatCommand Arm to Frame
+13,D927  Cab,183,927080R A Main SeatController Box Install,12215,Old Controller Box IR Torques,30476,Torque Cab Controller Clip
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,35809,Park Brake
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,35811,PTP
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,38991,SSU Open Center
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,38998,Torque Ground
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,35810,Gearshifter
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,35808,Service Brake
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,9172,Atlas Copco Torques Update,35813,SBBC
+13,D927  Cab,184,927090R A Main 1st Tilt Underneath Cab Assy,12409,Install Cover Plates,51394,Install Cover Plates
+13,D927  Cab,187,927100R A Main Steering Column Install,2401,Torque Steering Column & Plate,8987,Torque Steering Column and Plate
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,872,Small Pump Torques,6527,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,872,Small Pump Torques,8923,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,875,Lancer and Sugar Atlas Torques,8932,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,875,Lancer and Sugar Atlas Torques,8933,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,1943,Large Pump Torques,8928,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,1943,Large Pump Torques,8929,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14337,1900  ETN68154 Pump Torques,61586,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14337,1900  ETN68154 Pump Torques,61588,Torque Job 4 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14337,1900  ETN68154 Pump Torques,61587,Torque Job 3 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14337,1900  ETN68154 Pump Torques,61585,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14338,1900  ETN229628 Pump Torques,61596,Torque Job 4 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14338,1900  ETN229628 Pump Torques,61595,Torque Job 3 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14338,1900  ETN229628 Pump Torques,61594,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14338,1900  ETN229628 Pump Torques,61592,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14339,1900  ETN200589 Pump Torques,61748,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14339,1900  ETN200589 Pump Torques,61749,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14340,1900  ETN207893 Pump Torques,62027,Torque Job 1 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,14340,1900  ETN207893 Pump Torques,62028,Torque Job 2 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,15464,Steering Wheel,67239,Torque Job 4 with Atlas Copco
+13,D927  Cab,197,927102R A Sub Steering Column Subassembly,15464,Steering Wheel,67238,Torque Job 3 with Atlas Copco
+13,D927  Cab,203,927120R B Main WiperInner Roof Install,15786,Wiper Motor Install,69019,Torque Wiper Motor
+13,D927  Cab,207,927091R A Sub Brakes Assembly,2392,Non Pro Drive Brake Pedal,8911,Non Pro Drive Brake Pedal
+13,D927  Cab,207,927091R A Sub Brakes Assembly,3356,ETN124673 SSeries Torques,14040,Torque 8 AtlasCopco LH & RH Side Brackets
+13,D927  Cab,207,927091R A Sub Brakes Assembly,3356,ETN124673 SSeries Torques,14035,Torque 3 AtlasCopco Top Bracket
+13,D927  Cab,207,927091R A Sub Brakes Assembly,14341,ETN207895 Grizzly Torques,61619,1900Torque 8 AtlasCopco LH & RH Side Brackets
+13,D927  Cab,207,927091R A Sub Brakes Assembly,14341,ETN207895 Grizzly Torques,61614,1900  Torque 3 AtlasCopco Top Bracket
+13,D927  Cab,207,927091R A Sub Brakes Assembly,14343,ETN200591 Cotton Torques,61640,1900  Torque 3 AtlasCopco Top Bracket
+13,D927  Cab,207,927091R A Sub Brakes Assembly,14343,ETN200591 Cotton Torques,61641,1900Torque 8 AtlasCopco LH & RH Side Brackets
+13,D927  Cab,210,927140R A Main Control Box Connections,15283,Controller Box Screw,66092,Controller Box Screw
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11421,Large Display
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11424,Torque Top Cover to Bottom Cover
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11425,Torque Hydro Mechanism Sub to Lower Tub
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11423,Torque 5 Assemble Display Arm Cap
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11418,Torque Hydro Mechanism & Handle Clamp
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11422,Small Display
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11420,Torque Harness Fixation Bracket And Display Arm
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11427,Torque Bracket for PushPull Option
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11400,Torque ASM to Top Cover
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11419,Torque Hydrohandle to Mechanism
+13,D927  Cab,306,927081L B Sub Command Arm,1918,Torque,11426,Torque Cushion Cover to Command Arm Sub
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25680,Torque ACU Bracket
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25675,Torque House Control Module
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25677,Torque Hydro Handle Mechanism
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25687,Torque Navigation Bar
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25679,Torque Cell Phone Insert
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25683,Torque Display Swivel Mount
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25691,Install Ground Strap Bolt
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25681,Torque ACU
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25686,Torque Display
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25693,Install Display Rail
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25676,Torque Drive Control Module
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25678,Torque Hydro Handle
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25688,Torque Display Bracket Cover
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25690,Torque Top CoverBottom Tub
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25674,Torque Insert Cover
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25682,Torque Display Arm
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25689,Torque Display Arm Cover
+13,D927  Cab,306,927081L B Sub Command Arm,6423,NGOI Torques,25692,Install Push Pull Bracket
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11453,Torque 4 Harness Bracket And Display Arm Bracket
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11455,Small Display
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11456,Torque 5 Assemble Display Arm Cap
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11457,Torque 6 Assemble Top to Bottom
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11451,Torque 2 Assemble Hydro Mechanism & Handle Clamp
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11452,Torque 3 Fasten Hydro Handle
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11458,Torque 7 Assemble Bottom of Hydro Mechanism
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11459,Torque 8 Assemble Cushion Lid
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11450,Torque 1 Assemble ASM to Top
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11454,Large Display
+13,D927  Cab,433,927081L A Sub Command Arm,2822,Torque,11460,PushPull Option
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25862,Torque ACU Bracket
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25873,Install Ground Strap Bolt
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25874,Install Push Pull Bracket
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25869,Torque Navigation Bar
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25870,Torque Display Bracket Cover
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25872,Torque Top CoverBottom Tub
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25864,Torque Display Arm
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25871,Torque Display Arm Cover
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25875,Install Display Rail
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25858,Torque Drive Control Module
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25860,Torque Hydro Handle
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25861,Torque Cell Phone Insert
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25865,Torque Display Swivel Mount
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25856,Torque Insert Cover
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25859,Torque Hydro Handle Mechanism
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25868,Torque Display
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25857,Torque House Control Module
+13,D927  Cab,433,927081L A Sub Command Arm,6502,NGOI Torques,25863,Torque ACU
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25901,Torque Display Arm
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25894,Torque House Control Module
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25896,Torque Hydro Handle Mechanism
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25908,Torque Display Arm Cover
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25911,Install Push Pull Bracket
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25893,Torque Insert Cover
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25895,Torque Drive Control Module
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25899,Torque ACU Bracket
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25900,Torque ACU
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25905,Torque Display
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25906,Torque Navigation Bar
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25909,Torque Top CoverBottom Tub
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25912,Install Display Rail
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25907,Torque Display Bracket Cover
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25902,Torque Display Swivel Mount
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25910,Install Ground Strap Bolt
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25897,Torque Hydro Handle
+13,D927  Cab,434,927081L C Sub Command Arm,6507,NGOI Torques,25898,Torque Cell Phone Insert
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33056,Torque 4 Harness Bracket And Display Arm Bracket
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33059,Torque 5 Assemble Display Arm Cap
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33064,Torque 8 Assemble Cushion Lid
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33055,Torque 3 Fasten Hydro Handle
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33063,PushPull Option
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33062,Torque 7 Assemble Bottom of Hydro Mechanism
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33054,Torque 2 Assemble Hydro Mechanism & Handle Clamp
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33057,Large Display
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33061,Torque 6 Assemble Top to Bottom
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33058,Small Display
+13,D927  Cab,434,927081L C Sub Command Arm,8518,Torque,33053,Torque 1 Assemble ASM to Top
+13,D927  Cab,598,927160L B Sub LH Door Assembly,12230,Torque Steps,50726,Handlebar to Door Latch
+13,D927  Cab,598,927160L B Sub LH Door Assembly,12230,Torque Steps,67578,Torque Wiper Motor
+13,D927  Cab,598,927160L B Sub LH Door Assembly,12230,Torque Steps,50722,Ball Stud onto Glass
+13,D927  Cab,598,927160L B Sub LH Door Assembly,12230,Torque Steps,67626,Door Seal Protection Guard
+13,D927  Cab,751,927040R A Sub Einstein Controller Box,6413,Torque Controller Box,25618,Install Cab Main Fuse Box onto Bracket
+13,D927  Cab,751,927040R A Sub Einstein Controller Box,6413,Torque Controller Box,25619,Install Power Strip
+13,D927  Cab,751,927040R A Sub Einstein Controller Box,6413,Torque Controller Box,55129,Torque L Shaped Clip
+13,D927  Cab,751,927040R A Sub Einstein Controller Box,6413,Torque Controller Box,55132,Install Ethernet Switch
+13,D927  Cab,926,927140L B Main PowerBox InstallLH APost,12229,IR Torques 2,60490,Electric Box Extension
+13,D927  Cab,926,927140L B Main PowerBox InstallLH APost,12229,IR Torques 2,60487,Cab Wallplate  Combine
+13,D927  Cab,926,927140L B Main PowerBox InstallLH APost,12229,IR Torques 2,60489,Non Combine Connectors to Wallplate
+13,D927  Cab,926,927140L B Main PowerBox InstallLH APost,12229,IR Torques 2,60486,Cab Wallplate  Non Combine
+13,D927  Cab,926,927140L B Main PowerBox InstallLH APost,12229,IR Torques 2,60488,Main Harness to Wallplate
+13,D927  Cab,1143,927130L A Main 2nd Tilt Outer Roof Install,14555,IR Torques,62483,Torque Roof To Frame
+13,D927  Cab,1143,927130L A Main 2nd Tilt Outer Roof Install,14555,IR Torques,62484,Torque Bolts to Outer Roof
+13,D927  Cab,1143,927130L A Main 2nd Tilt Outer Roof Install,14555,IR Torques,62482,Torque GPS Bracket
+13,D927  Cab,1234,927125R A Sub RadioRear MirrorSpeakers,12224,Estic Torques,51953,Torque Single Rear Mirror Sub with Estic Tool
+13,D927  Cab,1234,927125R A Sub RadioRear MirrorSpeakers,12224,Estic Torques,50712,Torque Dual Rear Mirror Sub with Estic Tool
+13,D927  Cab,1363,927121R A Sub Roof Launch,12217,IR Torques and Harness Scans,50686,Torque Green Bezels with IR Tool
+13,D927  Cab,1363,927121R A Sub Roof Launch,12217,IR Torques and Harness Scans,51660,Torque Greenstar with IR Tool
+13,D927  Cab,1364,927122R A Sub HVACATC Install,12218,IR Torques,50689,Torque AC Lines Connection
+13,D927  Cab,1364,927122R A Sub HVACATC Install,12218,IR Torques,51944,Torque Fresh Air Duct to Inner Roof
+13,D927  Cab,1364,927122R A Sub HVACATC Install,12218,IR Torques,51943,Torque HVAC to Inner Roof
+13,D927  Cab,1364,927122R A Sub HVACATC Install,12218,IR Torques,51945,Torque Climate ATC Controller to HVAC
+13,D927  Cab,1365,927123R A Sub TelematicsECU Install,12220,IR Torques,51946,Torque ECU to Inner Roof
+13,D927  Cab,1365,927123R A Sub TelematicsECU Install,12220,IR Torques,50688,Torque Telematic Bracket
+13,D927  Cab,1366,927124R A Sub Lights Assembly,18645,IR Torques,51951,Torque Front Sunshade with IR Tool
+13,D927  Cab,1366,927124R A Sub Lights Assembly,18645,IR Torques,50711,Torque Air Filter Box with IR Tool
+13,D927  Cab,1366,927124R A Sub Lights Assembly,18645,IR Torques,51957,Torque Defrost Duct with IR Tool
+13,D927  Cab,1366,927124R A Sub Lights Assembly,18645,IR Torques,51956,Torque Speakers to Inner Roof with IR Tool
+13,D927  Cab,1367,927150R A Main Buddy SeatFridgePDU,12228,IR Torques,59389,Sunshade
+13,D927  Cab,1367,927150R A Main Buddy SeatFridgePDU,13530,Torque Extended Monitor,56111,Extended Monitor
+13,D927  Cab,1367,927150R A Main Buddy SeatFridgePDU,13531,Torque RH APost,56112,RH APost Cover
+13,D927  Cab,1367,927150R A Main Buddy SeatFridgePDU,14647,Wiper Torque,64450,Wiper Torque  Basic Ottumwa
+13,D927  Cab,1367,927150R A Main Buddy SeatFridgePDU,14647,Wiper Torque,96868,Wiper Torque 2
+13,D927  Cab,1367,927150R A Main Buddy SeatFridgePDU,14647,Wiper Torque,63032,Wiper Torque
+13,D927  Cab,1370,927081R A Sub Seat Subassembly,12214,Estic Torque Steps,51180,Install Command Arm to Seat
+13,D927  Cab,1756,927126R  A Sub Mirror JDAAT Station,12227,IR Torques,50718,Torque Mirror Arm Covers
+13,D927  Cab,1756,927126R  A Sub Mirror JDAAT Station,12227,IR Torques,51958,Torque LH & RH Grain Tank Mirror to Mirror Arm
+14,D954  Grain Tank,186,HX95410 A Sub Gear Case Scan,6540,38 Gear Case  Charge Housing,25993,38 GEAR CASE TO CHARGE HOUSING
+14,D954  Grain Tank,186,HX95410 A Sub Gear Case Scan,6542,33 Gear CaseCharge Housing,25996,Gear CasetoCharge Housing Assembly 33
+14,D954  Grain Tank,186,HX95410 A Sub Gear Case Scan,7649,Wear Plate for 38 Gear Case,29253,Wear Plate for 38 Gear Case Only
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26148,Elbow Drive and Gear Case
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26150,30mm Socket  Gear Case To UNLD Auger
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26154,Harness Brkt to Casting
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26158,Bearing Carrier to Casting
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26152,Gear Box to Turret Asm
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26149,UNLD Elbow Drive Asm
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26147,Cannon to Elbow Assembly
+14,D954  Grain Tank,435,HX95422 A Sub Cannon 26 Ft,6611,Elbow to 26 Cannon,26157,Pivot Ball to Casting
+14,D954  Grain Tank,695,HX95416 A Main Sprocket Assembly,6601,Sprocket  Idler Assembly,27442,Assemble Sprocket to grain tank
+14,D954  Grain Tank,698,HX95412 A Sub Cannon torque,6122,Atlas Copco Torque,24282,Torque Cannon
+14,D954  Grain Tank,759,HX95417 A Main Patriot ArmMidshelf Install,6608,HUR Top Cap and Patriot Arm,26141,HUR Top Cap and Patriot Arm Assembly
+14,D954  Grain Tank,764,HX95423 A Sub Cannon 225 Ft,6612,Install Carrier Bearing,26151,Elbow to 22 Cannon Auger to tube x4
+14,D954  Grain Tank,764,HX95423 A Sub Cannon 225 Ft,6613,Elbow to 22 Cannon Ring x12,26155,Elbow to 22 Cannon Ring x12
+14,D954  Grain Tank,764,HX95423 A Sub Cannon 225 Ft,6614,Elbow to 22 Cannon Auger to,26153,Elbow to 22 Cannon Auger to tube 2x4
+14,D954  Grain Tank,764,HX95423 A Sub Cannon 225 Ft,6615,Elbow to 22 Cannon Grease x,26156,Elbow to 22 Cannon Grease x1
+14,D954  Grain Tank,767,HX95426 B Sub Charge Housing West,6619,HUR Charge HousingB,26174,HUR Charge Housing
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1495,Torque Sequence 1,4918,Front Engine Rail Bolts
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1495,Torque Sequence 1,4922,Attach Pick Point 15mm
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1495,Torque Sequence 1,4923,Fuel Tank Support
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1495,Torque Sequence 1,4919,Rear Engine Rail Bolts
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1495,Torque Sequence 1,4920,Attach Pick Point 18mm
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1495,Torque Sequence 1,4921,Fuel Tank Rail
+19,D532  Engine Deck,245,532600 A Sub LH Operator Engine Deck,1511,Torque Sequence 2 Cover plate,4924,Cover Plate
+19,D532  Engine Deck,247,532600 B Sub RH Operator Engine Deck,1500,Torque Sequence 1,4936,Fuel Tank Rail
+19,D532  Engine Deck,247,532600 B Sub RH Operator Engine Deck,1500,Torque Sequence 1,4934,Rear Engine Rail Bolts
+19,D532  Engine Deck,247,532600 B Sub RH Operator Engine Deck,1500,Torque Sequence 1,4935,Attach Pick Point 18mm
+19,D532  Engine Deck,247,532600 B Sub RH Operator Engine Deck,1500,Torque Sequence 1,4938,Fuel Tank Support
+19,D532  Engine Deck,247,532600 B Sub RH Operator Engine Deck,1500,Torque Sequence 1,4933,Front Engine Rail Bolts
+19,D532  Engine Deck,247,532600 B Sub RH Operator Engine Deck,1508,Torque Sequence 2,4939,Cover Plate
+20,D980  Packout,256,980160LA DC Torque Auger Install,1761,Torque Control  PSET 1,5858,Torque D98041B  P1
+20,D980  Packout,256,980160LA DC Torque Auger Install,1761,Torque Control  PSET 1,5857,Torque D98041A  P1
+20,D980  Packout,256,980160LA DC Torque Auger Install,14609,GrizAttach Unload Auger,62730,Torque D98041B  P1
+20,D980  Packout,256,980160LA DC Torque Auger Install,14609,GrizAttach Unload Auger,62729,Torque D98041A  P1
+20,D980  Packout,830,980150LA LH FNT TireFD Torque,10118,TorqueStar Transducer Verify,39417,Torque on TorqueStar Transducer
+20,D980  Packout,830,980150LA LH FNT TireFD Torque,10125,Final Drive Torque,39440,Final Drive Torque 2
+20,D980  Packout,836,980150RA RH FNT TireFD Torque,7213,Final Drive Torque,27837,Final Drive Torque 2
+20,D980  Packout,836,980150RA RH FNT TireFD Torque,9641,TorqueStar Verification,37976,WC98024 Torque on Torquestar Transducer
+20,D980  Packout,836,980150RA RH FNT TireFD Torque,9641,TorqueStar Verification,37978,Enable AC to Back off Transducer  WC98024
+21,D412  Center Feed,300,41201 A Main Drum Assembly,1867,MY17 Flex Draper,27892,Torque 1 Dog Bone to Finger Shaft Bolt
+21,D412  Center Feed,300,41201 A Main Drum Assembly,1867,MY17 Flex Draper,30660,Torque 1 Dog Bone to Timing Shaft Bolt
+21,D412  Center Feed,300,41201 A Main Drum Assembly,1867,MY17 Flex Draper,27639,Torque 1 Offset Bearing Crank Bolt
+21,D412  Center Feed,300,41201 A Main Drum Assembly,1867,MY17 Flex Draper,10243,Torque 8 Drum Hub
+21,D412  Center Feed,300,41201 A Main Drum Assembly,2541,MY17 Rigid Draper,27473,Torque 2 Dog Bone and 1 Offset Bearing Bolts
+21,D412  Center Feed,300,41201 A Main Drum Assembly,4730,SERVICE Python Drum,18817,Torque 8 Drum Hub
+21,D412  Center Feed,300,41201 A Main Drum Assembly,4730,SERVICE Python Drum,27795,Torque 1 Dog Bone to Timing Shaft Bolt
+21,D412  Center Feed,300,41201 A Main Drum Assembly,4730,SERVICE Python Drum,27894,Torque 1 Dog Bone to Finger Shaft Bolt
+21,D412  Center Feed,300,41201 A Main Drum Assembly,4730,SERVICE Python Drum,27893,Torque 1 Offset Bearing Crank Bolt
+21,D412  Center Feed,300,41201 A Main Drum Assembly,5525,SERVICE Rigid Draper Drum,27477,Torque 2 Dog Bone and 1 Offset Bearing Bolts
+21,D412  Center Feed,300,41201 A Main Drum Assembly,5526,SERVICE Viper Drum,27479,Torque 2 Dog Bone Bolts
+21,D412  Center Feed,300,41201 A Main Drum Assembly,5526,SERVICE Viper Drum,27478,Torque 1 Offset Bearing Crank Bolt
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2657,Install 6 Bolt Element 13,12061,Install Elements Bullet Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2657,Install 6 Bolt Element 13,10953,Bullet Elements
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2657,Install 6 Bolt Element 13,16451,Install Elements Narrow Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2672,Torque Bullet Flights,22742,Install Bul Flights
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2672,Torque Bullet Flights,16788,Install Flights  Service Narrow
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2672,Torque Bullet Flights,12064,Install Bul Flights   Service Bullets
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2675,EXT Torque DP Tines 13,11065,Torque DP Tines
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2676,EXT Rear Paddles & Bal Bolts,11067,Extreme  Install Rear Paddles & Bal Bolts
+28,D960  Rotor AGV Ln,405,960040  Main Flights,2696,EXT Install Filler Bolts 13,12116,Torque Extreme Filler Bolts  58 Nm  7
+28,D960  Rotor AGV Ln,405,960040  Main Flights,5630,EXT BalancingFillerBolts 12,17209,Torque Extreme Balancing Filler Bolts
+28,D960  Rotor AGV Ln,405,960040  Main Flights,5811,EXT BalancingFillerBolts 22,22714,Torque Extreme Balancing Filler Bolts
+28,D960  Rotor AGV Ln,405,960040  Main Flights,5816,EXT Install Elements 13,22733,Extreme Elements  AXE24735
+28,D960  Rotor AGV Ln,405,960040  Main Flights,5816,EXT Install Elements 13,22735,Extreme Elements  AXE24737
+28,D960  Rotor AGV Ln,405,960040  Main Flights,5816,EXT Install Elements 13,22734,Extreme Elements  AXE24736
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7640,Install 6 Bolt Element 23,29220,Install Elements Bullet Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7640,Install 6 Bolt Element 23,29219,Bullet Elements
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7640,Install 6 Bolt Element 23,29221,Install Elements Narrow Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7641,Install 4 Bolt Element 23,29382,Filler Bolts elements  Service Bullet
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7641,Install 4 Bolt Element 23,29223,Bullet Elements AXE24829
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7641,Install 4 Bolt Element 23,29222,Bullet Elements AXE24828 & AXE31508
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7644,Install 6 Bolt Element 33,29233,Bullet Elements
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7644,Install 6 Bolt Element 33,29234,Install Elements Bullet Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7644,Install 6 Bolt Element 33,29235,Install Elements Narrow Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7645,Install 4 Bolt Element 33,29237,Bullet Elements AXE24829
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7645,Install 4 Bolt Element 33,29236,Bullet Elements AXE24828 & AXE31508
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7648,EXT Torque Flights,29250,Torque Flights  Service Extreme
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7648,EXT Torque Flights,29248,Extreme Torque Flights
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7652,EXT Install Elements 23,29260,Extreme Elements  AXE24737
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7652,EXT Install Elements 23,29258,Extreme Elements  AXE24735
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7652,EXT Install Elements 23,29259,Extreme Elements  AXE24736
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7653,EXT Install Elements 33,29261,Extreme Elements  AXE24735
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7653,EXT Install Elements 33,29263,Extreme Elements  AXE24737
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7653,EXT Install Elements 33,29262,Extreme Elements  AXE24736
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7654,EXT Install Filler Bolts 23,29264,Torque Extreme Filler Bolts  58 Nm  7
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7655,EXT Install Filler Bolts 33,29265,Torque Extreme Filler Bolts  58 Nm  7
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7656,EXT Torque DP Tines 23,29267,Torque DP Tines
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7657,EXT Torque DP Tines 33,29268,Torque DP Tines
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7661,Install 4 Bolt Elements 13,29276,Bullet Elements AXE24829
+28,D960  Rotor AGV Ln,405,960040  Main Flights,7661,Install 4 Bolt Elements 13,29275,Bullet Elements AXE24828 & AXE31508
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9510,Install Element Qty1 13,37449,Bullet Elements
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9510,Install Element Qty1 13,37450,Install Elements Bullet Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9510,Install Element Qty1 13,37451,Install Elements Narrow Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9511,Install Elements Qty1 23,37453,Install Elements Bullet Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9511,Install Elements Qty1 23,37454,Install Elements Narrow Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9511,Install Elements Qty1 23,37452,Bullet Elements
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9512,Install Elements Qty1 33,37456,Install Elements Bullet Service
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9512,Install Elements Qty1 33,37455,Bullet Elements
+28,D960  Rotor AGV Ln,405,960040  Main Flights,9512,Install Elements Qty1 33,37457,Install Elements Narrow Service
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2674,Filler Bolts 13,12065,Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2674,Filler Bolts 13,24974,Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2674,Filler Bolts 13,11063,Filler Bolts  Bullet AXE24828 AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2692,Torque Bullet Tines 36,11716,Torque Bullet Tines AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2692,Torque Bullet Tines 36,11072,Torque Bullet Tines AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2695,EXT Torque 7 Tines 13,11101,Torque Tines on Extreme AXE24737
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2695,EXT Torque 7 Tines 13,11892,Torque Tines on Extreme AXE24735 & AXE24736
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2928,Service Filler Bolts,21478,Filler Bolts tines Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2928,Service Filler Bolts,21809,Filler Bolts elements  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,2928,Service Filler Bolts,12075,Filler Bolts tines  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5629,Balancing Filler Bolts 16,21803,Balancing Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5629,Balancing Filler Bolts 16,21802,Balancing Filler Bolts  AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5629,Balancing Filler Bolts 16,21807,Balancing Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5629,Balancing Filler Bolts 16,21810,Balancing Filler Bolts  Bullet AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5813,EXT Torque 6 Tines 23,22722,Torque Tines on Extreme AXE24737
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5813,EXT Torque 6 Tines 23,22723,Torque Tines on Extreme AXE24735 & AXE24736
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5814,EXT Torque 7 Tines 3 3,22724,Torque Tines on Extreme AXE24737
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,5814,EXT Torque 7 Tines 3 3,22725,Torque Tines on Extreme AXE24735 & AXE24736
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7642,Filler Bolts 23,38933,Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7642,Filler Bolts 23,29226,Filler Bolts  Bullet AXE24828 AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7642,Filler Bolts 23,29228,Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7646,Filler Bolts 33,29242,Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7646,Filler Bolts 33,29240,Filler Bolts  Bullet AXE24828 AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7658,Torque Bullet Tines 46,29269,Torque Bullet Tines AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7658,Torque Bullet Tines 46,29270,Torque Bullet Tines AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7659,Torque Bullet Tines 56,29271,Torque Bullet Tines AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7659,Torque Bullet Tines 56,29272,Torque Bullet Tines AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7662,EXT Rice Wear Plate 13,29277,EXT Rice Wear Plate AXE24737
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7663,EXT Rice Wear Plate 23,29279,EXT Rice Wear Plate AXE24737
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7664,EXT Rice Wear Plate 33,29280,EXT Rice Wear Plate AXE24737
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7862,Torque Bullet Tines 16,30312,Torque Bullet Tines AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7862,Torque Bullet Tines 16,30311,Torque Bullet Tines AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7866,Torque Bullet Tines 26,30316,Torque Bullet Tines AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7866,Torque Bullet Tines 26,30317,Torque Bullet Tines AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7867,Torque Bullet Tines 66,30319,Torque Bullet Tines AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7867,Torque Bullet Tines 66,30318,Torque Bullet Tines AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7868,Balancing Filler Bolts 26,30321,Balancing Filler Bolts  AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7868,Balancing Filler Bolts 26,30322,Balancing Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7868,Balancing Filler Bolts 26,30323,Balancing Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7868,Balancing Filler Bolts 26,30320,Balancing Filler Bolts  Bullet AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7869,Balancing Filler Bolts 36,30325,Balancing Filler Bolts  AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7869,Balancing Filler Bolts 36,30326,Balancing Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7869,Balancing Filler Bolts 36,30324,Balancing Filler Bolts  Bullet AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7869,Balancing Filler Bolts 36,30327,Balancing Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7870,Balancing Filler Bolts 46,30329,Balancing Filler Bolts  AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7870,Balancing Filler Bolts 46,30330,Balancing Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7870,Balancing Filler Bolts 46,30328,Balancing Filler Bolts  Bullet AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7870,Balancing Filler Bolts 46,30331,Balancing Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7871,Balancing Filler Bolts 56,30332,Balancing Filler Bolts  Bullet AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7871,Balancing Filler Bolts 56,30334,Balancing Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7871,Balancing Filler Bolts 56,30333,Balancing Filler Bolts  AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7871,Balancing Filler Bolts 56,30335,Balancing Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7872,Balancing Filler Bolts 66,30336,Balancing Filler Bolts  Bullet AXE24828AXE24829
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7872,Balancing Filler Bolts 66,30339,Balancing Filler Bolts  Service Narrow
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7872,Balancing Filler Bolts 66,30337,Balancing Filler Bolts  AXE31508
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,7872,Balancing Filler Bolts 66,30338,Balancing Filler Bolts  Service Bullet
+28,D960  Rotor AGV Ln,416,960060  Main Tine Torque,19071,EXT Service Filler Bolts,84100,Torque Extreme Filler Bolts  58 Nm  7
+28,D960  Rotor AGV Ln,418,960020  Main Rivnuts,2723,Install Spider Casting Bolts,11147,Spider Casting Filler Bolts
+28,D960  Rotor AGV Ln,1128,960070A  Maincasting torque,2702,Torque bolts x 6 spline castin,11107,Spline Casting Torques
+29,D924  FirewallFPV,888,Repair  Bay 6,8148,ProDrive Proportionator,31635,Torque Return Line
+29,D924  FirewallFPV,888,Repair  Bay 6,8148,ProDrive Proportionator,31636,Torque Pressure Line PD Motor from Filter
+29,D924  FirewallFPV,888,Repair  Bay 6,8148,ProDrive Proportionator,31634,Torque Pressure Line
+29,D924  FirewallFPV,888,Repair  Bay 6,8148,ProDrive Proportionator,31637,Torque Case Drain Line
+29,D924  FirewallFPV,888,Repair  Bay 6,9405,9L NPD Hydro Pump Sub TLID 507,37328,9L NPD Hydro 61H1012
+29,D924  FirewallFPV,888,Repair  Bay 6,9405,9L NPD Hydro Pump Sub TLID 507,37327,9L NPD Hydro 61H1005
+29,D924  FirewallFPV,888,Repair  Bay 6,9502,135L Hydro Pump Sub TLID 372,37441,TLID 633  135L AXE43128 Sensor
+29,D924  FirewallFPV,888,Repair  Bay 6,9502,135L Hydro Pump Sub TLID 372,37443,135L Hydro 61H1164
+29,D924  FirewallFPV,888,Repair  Bay 6,9502,135L Hydro Pump Sub TLID 372,37445,135L Hydro AN372628
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66588,TLID1207  cooling fan sheave
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66593,TLID551  T4 135L Heater Fitting AXE38213
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66591,TLID551  T4 135L Heater Fitting AZ64510
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66589,TLID 294 135L Hub Install
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66590,TLID551  T4 135L Heater Fitting RE262002
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66585,TLID241  135L 110v Block Heater to Engine
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66584,TLID1143  T4 135L Surge Tank Vent Line
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66592,TLID551  T4 135L Heater Fitting AXE18186
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66587,TLID1207  cooling fan spindle
+29,D924  FirewallFPV,888,Repair  Bay 6,14934,Engine Sub 135L,66739,TLID1207  Tensioner Support & Tensioner2
+31,D404  RD Belts & CF,1237,FPY404M3 E Sub 40415 Drum Assembly,10859,Rigid Draper Drum,43038,Torque 2 Dog Bone and 1 Offset Bearing Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25319,Torque 6 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25382,Torque 6 RH Flighting Extension Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25377,Torque 6 LH Flighting Extension Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25557,Torque 9 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25560,Torque 8 Additional Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25559,Torque 6 Additional Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6333,22253035 Platform Auger,25558,Torque 12 Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6398,222530 Service Plat Auger,25562,Torque 9 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6398,222530 Service Plat Auger,25564,Torque 6 Additional Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6398,222530 Service Plat Auger,25565,Torque 4 Additional Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6398,222530 Service Plat Auger,25533,Torque 6 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6398,222530 Service Plat Auger,25561,Torque 8 Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6398,222530 Service Plat Auger,25563,Torque 8 Additional Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6399,15 BPU Augers,25549,Torque 4 Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6399,15 BPU Augers,25534,Torque 9 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25536,Torque 6 LH Flighting Extension Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25552,Torque 3 Additional Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25538,Torque 6 RH Flighting Extension Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25553,Torque 4 Additional Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25539,Torque 6 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25551,Torque 8 Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6400,20 Platform Auger,25550,Torque 6 Additional Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6401,20 Service Platform Auger,25540,Torque 6 Bearing Joints
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6401,20 Service Platform Auger,25634,Torque 4 Additional Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6401,20 Service Platform Auger,25566,Torque 8 Dog Bone Bolts
+33,D530  FEE Subs,735,FPY530M3 A Sub 53006 Auger Assembly Operator 1,6401,20 Service Platform Auger,25633,Torque 9 Additional Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6404,15 BPU Augers,25571,Torque 9 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6404,15 BPU Augers,25572,Torque 4 Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25578,Torque 6 Additional Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25581,Torque 4 Additional Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25580,Torque 3 Additional Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25573,Torque 6 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25579,Torque 8 Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25575,Torque 6 LH Flighting Extension Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6405,20 Platform Auger,25577,Torque 6 RH Flighting Extension Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25584,Torque 6 LH Flighting Extension Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25582,Torque 6 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25586,Torque 6 RH Flighting Extension Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25587,Torque 9 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25588,Torque 12 Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25590,Torque 8 Additional Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6406,22253035 Platform Auger,25589,Torque 6 Additional Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6407,20 Service Platform Auger,25591,Torque 6 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6407,20 Service Platform Auger,25635,Torque 9 Additional Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6407,20 Service Platform Auger,25636,Torque 4 Additional Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6407,20 Service Platform Auger,25592,Torque 8 Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6408,222530 Service Plat Auger,25598,Torque 4 Additional Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6408,222530 Service Plat Auger,25597,Torque 6 Additional Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6408,222530 Service Plat Auger,25594,Torque 8 Dog Bone Bolts
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6408,222530 Service Plat Auger,25593,Torque 6 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6408,222530 Service Plat Auger,25595,Torque 9 Bearing Joints
+33,D530  FEE Subs,747,FPY530M3 B Sub 53006 Auger Assembly Operator 2,6408,222530 Service Plat Auger,25596,Torque 8 Additional Dog Bone Bolts
+35,D485  CornheadRU,892,485042 A SUB STALK ROLL INSTALL,8229,Stalk Roll Install Torques,31917,TLID 17  Torque Stalk Rolls  Spindle 2
+35,D485  CornheadRU,892,485042 A SUB STALK ROLL INSTALL,8229,Stalk Roll Install Torques,31916,TLID 17  Torque Stalk Rolls  Spindle 1
+35,D485  CornheadRU,898,485043 C SUB FRAME SUB 1,8234,Chain Guide Torques,31924,TLID 3436  LH & RH Chain Guide Hardware
+35,D485  CornheadRU,911,485011 A MAIN Station 1R,13664,Chopping & NonChopping  8day,57046,TLID 409410 Assemble LH Drive Sprocket
+35,D485  CornheadRU,911,485011 A MAIN Station 1R,13664,Chopping & NonChopping  8day,57045,TLID 408 Assemble LH 112 Drive Bearing
+35,D485  CornheadRU,911,485011 A MAIN Station 1R,13664,Chopping & NonChopping  8day,57044,TLID 408 Assemble LH 114 Drive Bearing
+35,D485  CornheadRU,912,485010 A MAIN Station 1L,8810,Dual Drive Machines,34531,TLID 495 RH 114 Drive Bearing DC
+35,D485  CornheadRU,912,485010 A MAIN Station 1L,8810,Dual Drive Machines,34319,TLID 49697 Assemble RH Drive Sprocket
+35,D485  CornheadRU,912,485010 A MAIN Station 1L,8810,Dual Drive Machines,34806,TLID 495 RH 112 Drive Bearing DC
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34310,TLID 579 6 Row Torque Row Unit Bolts Pickles2
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34313,TLID 593 12 Row Torque Row Unit Bolts Pickles
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34312,TLID 586 8 Row Torque Row Unit Bolts Pickles2
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34314,TLID 593 12 Row Torque Row Unit Bolts Pickles2
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34308,TLID 579 6 Row Torque Row Unit Bolts Pickles
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34317,TLID 607 18 Row Torque Row Unit Bolts Pickles
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34315,TLID 600 16 Row Torque Row Unit Bolts Pickles
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34311,TLID 586 8 Row Torque Row Unit Bolts Pickles
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34316,TLID 600 16 Row Torque Row Unit Bolts Pickles2
+35,D485  CornheadRU,915,485040B A MAIN Station 4L,8613,Row Unit Torques,34318,TLID 607 18 Row Torque Row Unit Bolts Pickles2
+35,D485  CornheadRU,917,485052 A MAIN Station 5R,8853,Chopping & NonChopping,34875,TLID 874 Assemble 114 LH Drive Bearing
+35,D485  CornheadRU,917,485052 A MAIN Station 5R,8853,Chopping & NonChopping,34877,TLID 875 Assemble LH Drive Sprocket
+35,D485  CornheadRU,917,485052 A MAIN Station 5R,8853,Chopping & NonChopping,34876,TLID 874 Assemble 112 LH Drive Bearing
+35,D485  CornheadRU,918,485051 A MAIN Station 5L,8847,Dual Drive Machines,34818,TLID 962964 Assemble RH Drive Sprocket
+35,D485  CornheadRU,920,485063 A MAIN Station 6L,10915,RH Oil Pan  Bulkhead Cover,43341,TLID 969 Assemble RH Oil Pan
+35,D485  CornheadRU,1001,485062 A MAIN Station 6C,10914,LH Oil Pan,43340,TLID 880 Assemble LH Oil Pan
+36,D490  BPU,901,490010R A Main Workcenter 10,8239,Mainline Torques,68724,SSeries Torque 5 M10 Nuts on LH Stripper Sub
+36,D490  BPU,901,490010R A Main Workcenter 10,8239,Mainline Torques,68725,DSeries Torque 2 M10 Nuts on LH Stripper Sub
+36,D490  BPU,901,490010R A Main Workcenter 10,8239,Mainline Torques,68726,SSeries Torque 6 M10 Nuts on RH Stripper Sub
+36,D490  BPU,901,490010R A Main Workcenter 10,8239,Mainline Torques,68727,DSeries Torque 3 M10 Nuts on RH Stripper Sub
+36,D490  BPU,901,490010R A Main Workcenter 10,15597,Sabre Uprights GCI Arm,68663,DSeries Torque Stripper Bars to Uprights
+36,D490  BPU,901,490010R A Main Workcenter 10,15597,Sabre Uprights GCI Arm,68623,Torque RH Upright to Top Tube of Frame
+36,D490  BPU,901,490010R A Main Workcenter 10,15597,Sabre Uprights GCI Arm,68621,Torque LH Upright to Top Tube of Frame
+36,D490  BPU,901,490010R A Main Workcenter 10,15597,Sabre Uprights GCI Arm,68624,Torque RH Upright to Bottom of Frame
+36,D490  BPU,901,490010R A Main Workcenter 10,15597,Sabre Uprights GCI Arm,68622,Torque LH Upright to Bottom of Frame
+36,D490  BPU,901,490010R A Main Workcenter 10,15597,Sabre Uprights GCI Arm,68992,SSeries Torque Stripper Bars to Uprights
+36,D490  BPU,905,490021R A Main Workcenter 21R,8243,RH Picking Unit Frame Torques,96416,TBP80 TLID 256 Torque 4 Nuts for RH Wheel Mount
+36,D490  BPU,905,490021R A Main Workcenter 21R,8243,RH Picking Unit Frame Torques,96414,TBP80 TLID 244  RH  Torque All Bearings
+36,D490  BPU,906,490021L A Main Workcenter 21L,8244,LH Picking Unit Frame Torques,96413,TBP80 TLID 325  Torque 4 LH Wheel Mount Nuts
+36,D490  BPU,906,490021L A Main Workcenter 21L,8244,LH Picking Unit Frame Torques,96412,TBP80 TLID 313  LH  Torque Bearing Bolts
+67,D455  Flex Platform,1186,455031 B Main OP 31,10516,Torque Steps,49062,TLID 164 600F Torque Auger bolt using DC Tool
+67,D455  Flex Platform,1186,455031 B Main OP 31,10516,Torque Steps,48789,TLID 166 600F Torque Timing Casting
+67,D455  Flex Platform,1187,455040 A Main OP 40,10519,Torque Steps,48781,TLID 258  600F Torque LH Stabilizer to frame
+67,D455  Flex Platform,1188,455041 B Main OP 41,10522,Torque Steps,48782,TLID 273  635F Torque RH stabilizer
+67,D455  Flex Platform,1191,455084 A Main OP 84,10531,Torque Steps,49032,TLID 530 600F  Align Knife \ Assemble to Gearbox
+67,D455  Flex Platform,1191,455084 A Main OP 84,10531,Torque Steps,49031,TLID 529 600F  Assemble Gearbox to Frame
+68,D465  Rigid Draper,1259,465012 B Main OP 2,13715,Torque Steps  Op 12,57544,TLID 1069  Torque RH Transport Brace
+68,D465  Rigid Draper,1259,465012 B Main OP 2,13715,Torque Steps  Op 12,57540,TLID 997  Torque Float ArmsGauge Wheels to frame
+68,D465  Rigid Draper,1259,465012 B Main OP 2,13715,Torque Steps  Op 12,57543,TLID 406  Torque Float Cylinder 1
+68,D465  Rigid Draper,1259,465012 B Main OP 2,13715,Torque Steps  Op 12,57542,TLID 406  Torque Float Cylinders
+68,D465  Rigid Draper,1259,465012 B Main OP 2,13715,Torque Steps  Op 12,57539,TLID 997  Torque 2 Float Arms to Dog Legs
+68,D465  Rigid Draper,1259,465012 B Main OP 2,13715,Torque Steps  Op 12,57541,TLID 997  Torque FloatGauge & LH Transport brace
+68,D465  Rigid Draper,1260,465030 A Main OP DC,13700,Torque StepsDC TOOL,57374,TLID 588  DKD RH Wobble Box Torques
+68,D465  Rigid Draper,1260,465030 A Main OP DC,13700,Torque StepsDC TOOL,57370,TLID 160  Assemble LH Knife head bolt
+68,D465  Rigid Draper,1260,465030 A Main OP DC,13700,Torque StepsDC TOOL,57369,TLID 160  LH Wobble Box Torques
+68,D465  Rigid Draper,1260,465030 A Main OP DC,13700,Torque StepsDC TOOL,57375,TLID 588  DKD Assemble RH Knife Head Bolt
+69,D460  Flex Draper,1255,460012 A Main Op12,11402,Op12 Torque Steps,47969,TLID 18252  745FD  Torque AHHC Paddles to Rod
+69,D460  Flex Draper,1255,460012 A Main Op12,11402,Op12 Torque Steps,47966,TLID 16871  730FD  Torque AHHC Paddles to Rod
+69,D460  Flex Draper,1255,460012 A Main Op12,11402,Op12 Torque Steps,47967,TLID 709  735FD  Torque AHHC Paddles to Rod
+69,D460  Flex Draper,1255,460012 A Main Op12,11402,Op12 Torque Steps,47968,TLID 708  740FD  Torque AHHC paddles to rod
+69,D460  Flex Draper,1265,460021 A Main Op21,11418,Op21 Torque Steps,47716,TLID 18099  Torque RH OFA to frame
+69,D460  Flex Draper,1269,460020 A Main Op20,11414,Op20 Torque Steps,47730,TLID 18369  Torque LH OFA to frame
+69,D460  Flex Draper,1272,460041 A Main Op41,13252,Op41 Torque Steps,54658,TLID 18382  Torque RHS CFA Pivot Bolt
+69,D460  Flex Draper,1272,460041 A Main Op41,13252,Op41 Torque Steps,54657,TLID 18276  Torque LHS CFA Pivot Bolt
+69,D460  Flex Draper,1281,460061 A Main Op61,11450,Op61 Torque Steps 2,51935,TLID 74  Tighten hex shaft nut on drive shaft
+69,D460  Flex Draper,1281,460061 A Main Op61,11450,Op61 Torque Steps 2,46412,TLID 74  Draper Knife Drive Gear Case
+69,D460  Flex Draper,1281,460061 A Main Op61,11450,Op61 Torque Steps 2,46411,TLID 74  DKD  Tighten knife bearing bolts
+69,D460  Flex Draper,1281,460061 A Main Op61,11450,Op61 Torque Steps 2,46413,TLID 74  DKD  Tighten knife head bolt
+69,D460  Flex Draper,1281,460061 A Main Op61,11450,Op61 Torque Steps 2,46397,TLID 18470  Greenbar Bolts
+69,D460  Flex Draper,1281,460061 A Main Op61,13553,Op61 Torque Steps 1,49600,TLID 8251  Torque RH outer float arm ball joint
+69,D460  Flex Draper,1282,460060 A Main Op60,11446,Op60 Torque Steps 2,46609,TLID 294  700FD  Assemble LH Gear Case
+69,D460  Flex Draper,1282,460060 A Main Op60,11446,Op60 Torque Steps 2,46605,TLID 18477  700FD Greenbar Bolts
+69,D460  Flex Draper,1282,460060 A Main Op60,11446,Op60 Torque Steps 2,46610,TLID 294  700FD  Assemble LH Bearing Bolts
+69,D460  Flex Draper,1282,460060 A Main Op60,11446,Op60 Torque Steps 2,51934,TLID 294  Tighten hex shaft nut on drive shaft
+69,D460  Flex Draper,1282,460060 A Main Op60,13551,Op60 Torque Steps 1,49598,TLID 659  Torque LH outer float arm ball joint
+69,D460  Flex Draper,1284,460042 A Sub Op42  Drum Sub,11516,Drum Torque Steps,46764,Torque 8 Drum Hub
+69,D460  Flex Draper,1284,460042 A Sub Op42  Drum Sub,11516,Drum Torque Steps,46763,Torque 1 Dog Bone to Timing Shaft Bolt
+69,D460  Flex Draper,1284,460042 A Sub Op42  Drum Sub,11516,Drum Torque Steps,46766,Torque 1 Offset Bearing Crank Bolt
+69,D460  Flex Draper,1284,460042 A Sub Op42  Drum Sub,11516,Drum Torque Steps,46767,Torque 1 Dog Bone to Finger Shaft Bolt
+82,D550  Griz Engine,1524,550010,14028,Ground Cable,59702,Ground Cable
+82,D550  Griz Engine,1524,550010,14028,Ground Cable,64093,Hose Support Wireform Install
+82,D550  Griz Engine,1524,550010,14029,Deflector Bracket,62278,RH Side Bracket
+82,D550  Griz Engine,1524,550010,14029,Deflector Bracket,59706,RH Front Deflector Bracket 2
+82,D550  Griz Engine,1524,550010,14029,Deflector Bracket,62279,LH Side Bracket Install
+82,D550  Griz Engine,1524,550010,14029,Deflector Bracket,63113,Blank Controller
+82,D550  Griz Engine,1524,550010,14031,Side Rail Bracket,59709,RH Rail Bracket
+82,D550  Griz Engine,1524,550010,14032,LH Engine Side Sheet,59711,LH Engine Side Sheet
+82,D550  Griz Engine,1524,550010,14032,LH Engine Side Sheet,64528,Deflector to Side Sheet
+82,D550  Griz Engine,1524,550010,14033,Install Gusset Plate,59712,Gusset Plate
+82,D550  Griz Engine,1524,550010,14034,Brake Line Brackets,59713,Brake Line Brackets
+82,D550  Griz Engine,1524,550010,14035,HDM Clamp,59714,Stackable Clamps
+82,D550  Griz Engine,1524,550010,14036,Brackets,64065,Steering Hose Bracket HXE145119
+82,D550  Griz Engine,1524,550010,14036,Brackets,59715,Mounting Brackets
+82,D550  Griz Engine,1524,550010,14036,Brackets,64064,Steering Hose Bracket HXE149207
+82,D550  Griz Engine,1524,550010,14037,Vehicle Controller,59716,Vehicle Controller
+82,D550  Griz Engine,1524,550010,14880,Engine Hold Down,64481,Engine Hold Down
+82,D550  Griz Engine,1524,550010,14889,Steering Brackets,64526,Steering Hose Bracket HXE145117
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,59744,Idler Pulley
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,59745,Belt Tensioner
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,59746,Air Compressor Install
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,59737,Install Damper Coupling
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,59743,LH RH Engine Support
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,62632,Alternator Brackert to eng
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,59752,Damper Coupling Sub Assembly
+82,D550  Griz Engine,1525,550020,14040,Sub Engine,62630,Alternator to Engine
+82,D550  Griz Engine,1525,550020,14041,MEG,59747,MEG to Engine
+82,D550  Griz Engine,1525,550020,14041,MEG,59758,Coolant Hose PClamp
+82,D550  Griz Engine,1525,550020,14041,MEG,59753,Oil Suction Tube
+82,D550  Griz Engine,1525,550020,14041,MEG,62454,Exhaust Tube Bracket AXE76995
+82,D550  Griz Engine,1525,550020,14041,MEG,62455,Exhaust Tube Top bolt
+82,D550  Griz Engine,1525,550020,14041,MEG,59757,Hose Support Bracket
+82,D550  Griz Engine,1525,550020,14041,MEG,61801,Coolant Manifold AH246970
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59764,Gusset Plate
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59770,Fan Drive Pully hxe148708
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59765,Auxiliary Drive Bracket
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59754,Meg to Engine 2
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59766,Fan Drive Tensioner Top Bolts
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,62013,Fan Drive Pully HXE148707
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,62703,Belt Tensionr
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59760,Install Engine to Frame
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,59761,Sheave Assembly
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,62693,Auxillary Bracket to Fan Casting
+82,D550  Griz Engine,1525,550020,14044,Line Work Engine,62701,Fan Drive Tensioner Bottom
+82,D550  Griz Engine,1526,550030,14045,Oil Tube,59776,Oil Tube Clip
+82,D550  Griz Engine,1526,550030,14046,Hydraulic Hose,59871,Oil Tube Clip
+82,D550  Griz Engine,1526,550030,14047,Hydrualic Reservoir,59785,HR bracket
+82,D550  Griz Engine,1526,550030,14047,Hydrualic Reservoir,59786,HR to Engine
+82,D550  Griz Engine,1526,550030,14051,Ground Cables,59888,Ground Cable to Front Eng
+82,D550  Griz Engine,1526,550030,14051,Ground Cables,59887,Ground Cable to Eng Deck
+82,D550  Griz Engine,1526,550030,14052,Double Lube Pump,59814,Hydrolic Hose
+82,D550  Griz Engine,1526,550030,14052,Double Lube Pump,59818,Install Hydraulic Drain Tee
+82,D550  Griz Engine,1526,550030,14052,Double Lube Pump,62838,Hose Support Bracket
+82,D550  Griz Engine,1526,550030,14054,Hose Support Bracket,59844,Hose Base Bracket
+82,D550  Griz Engine,1526,550030,14054,Hose Support Bracket,59892,Hose Support Bracket
+82,D550  Griz Engine,1526,550030,14191,Suction Hose,60710,Suction Hose
+82,D550  Griz Engine,1526,550030,14425,SUB Assembly Hose Support Brac,62025,Hose Support Bracket 4
+82,D550  Griz Engine,1526,550030,14425,SUB Assembly Hose Support Brac,62022,Hose Support Bracket 1
+82,D550  Griz Engine,1526,550030,14425,SUB Assembly Hose Support Brac,62023,Hose Support Bracket 2
+82,D550  Griz Engine,1526,550030,14425,SUB Assembly Hose Support Brac,62024,Hose Support Bracket 3
+82,D550  Griz Engine,1526,550030,14608,MEG ON CASTING,62717,MEG Bracket
+82,D550  Griz Engine,1527,550090,14127,Main Wiring Harness to ATD,60323,Main Wiring Harness to ATD
+82,D550  Griz Engine,1527,550090,14128,ATD Cover,64785,Install ATD Cover over ATD
+82,D550  Griz Engine,1527,550090,14129,Exhaust Cover Plate,60327,Exhaust Cover Plate
+82,D550  Griz Engine,1527,550090,14129,Exhaust Cover Plate,60326,Exhaust Cover Plate bracket
+82,D550  Griz Engine,1527,550090,14131,Unloading Auger SUB,64702,Install Ball Bearing onto Shaft
+82,D550  Griz Engine,1527,550090,14131,Unloading Auger SUB,60357,Inner and Outer Casting
+82,D550  Griz Engine,1527,550090,14132,Unloading Auger,64465,Stackable Clamps
+82,D550  Griz Engine,1527,550090,14132,Unloading Auger,60364,Install unlaoding Auger
+82,D550  Griz Engine,1527,550090,14132,Unloading Auger,64798,Inner Casting to MEG
+82,D550  Griz Engine,1527,550090,14133,Variable Speed Rotor Hose,60365,Variable Speed Drive Hose
+82,D550  Griz Engine,1527,550090,14135,Hose Bracket & Clamps ATD,64709,Bracket HXE142210
+82,D550  Griz Engine,1527,550090,14135,Hose Bracket & Clamps ATD,60369,Bracket HXE149045
+82,D550  Griz Engine,1527,550090,14463,Main Hyd Cooler,63538,Hydro Cooler Hose
+82,D550  Griz Engine,1529,550040,14059,Upper Radiator Tube,59893,Radiator Tube Clamp
+82,D550  Griz Engine,1529,550040,14059,Upper Radiator Tube,59895,Upper Radiator Tube to Eng
+82,D550  Griz Engine,1529,550040,14060,Lower Radiator Tube,59898,Lower Radiator Tube to Eng
+82,D550  Griz Engine,1529,550040,14060,Lower Radiator Tube,64462,Radiator Tube Clamp
+82,D550  Griz Engine,1529,550040,14061,VPF Fan,59904,Install VPF Fan
+82,D550  Griz Engine,1529,550040,14062,Main Wiring Harness,59909,Main Wiring Harness to Eng
+82,D550  Griz Engine,1529,550040,14062,Main Wiring Harness,59905,Main Wiring Harness To ECU
+82,D550  Griz Engine,1529,550040,14063,Connect Front and Rear Support,59914,LH Front Support
+82,D550  Griz Engine,1529,550040,14064,Step Weldment,62870,Install Step Weldment
+82,D550  Griz Engine,1529,550040,14065,Brace,59919,Install Brace
+82,D550  Griz Engine,1529,550040,14065,Brace,64306,Hand Rail Bracket
+82,D550  Griz Engine,1529,550040,14066,Top Cover Support to ENG,59923,Tighten Support to ENG
+82,D550  Griz Engine,1529,550040,14067,Handrail Support,59931,J Clamp
+82,D550  Griz Engine,1529,550040,14068,Filter Panel,59936,Fuel Filter Install
+82,D550  Griz Engine,1529,550040,14068,Filter Panel,59937,Bracket Install
+82,D550  Griz Engine,1529,550040,14068,Filter Panel,64162,PClamp for Surge Tank
+82,D550  Griz Engine,1529,550040,14069,Surge Tank Hose,59940,Sure Tank Supply Hose
+82,D550  Griz Engine,1529,550040,14070,Fuel Line to Filter Panel,59948,Bracket
+82,D550  Griz Engine,1529,550040,14070,Fuel Line to Filter Panel,59942,Fuel Hose Support Bracket
+82,D550  Griz Engine,1529,550040,14071,Battery Cables,59953,HDM Clamp
+82,D550  Griz Engine,1529,550040,14071,Battery Cables,59949,Stackable Clamps
+82,D550  Griz Engine,1529,550040,14071,Battery Cables,62884,Battery Cable to Alternator
+82,D550  Griz Engine,1529,550040,14270,Sub Front Top Cover,63012,Bumber Install
+82,D550  Griz Engine,1529,550040,14270,Sub Front Top Cover,61046,LH Front Support
+82,D550  Griz Engine,1529,550040,14270,Sub Front Top Cover,61047,RH Front Support
+82,D550  Griz Engine,1529,550040,14633,Filter Panel 2 Cover Structure,62875,Filter Panel Install
+82,D550  Griz Engine,1530,550050,14074,Fuel Line Bracket,60707,Bracket HXE127195
+82,D550  Griz Engine,1530,550050,14074,Fuel Line Bracket,64650,Bolt on Support Arm
+82,D550  Griz Engine,1530,550050,14077,Hydraulic Hose,64915,Stackable Clamps
+82,D550  Griz Engine,1530,550050,14079,Cold CAC Tube,60005,Cold Tube Bracket
+82,D550  Griz Engine,1530,550050,14079,Cold CAC Tube,60007,Install Cold CAC Tube
+82,D550  Griz Engine,1530,550050,14079,Cold CAC Tube,60022,Cold Tube Clamp
+82,D550  Griz Engine,1530,550050,14079,Cold CAC Tube,64774,ATD Bracket
+82,D550  Griz Engine,1530,550050,14080,Hydraulic Hoses on Cooling,60028,Hydrolic Hoses on Cooling package P Clamp
+82,D550  Griz Engine,1530,550050,14081,RH Side Sheet,60038,RH side Sheet Channel
+82,D550  Griz Engine,1530,550050,14083,Cooling Package Support Channe,60075,Install Cooling Package
+82,D550  Griz Engine,1530,550050,14083,Cooling Package Support Channe,64647,LH Cooling Package
+82,D550  Griz Engine,1530,550050,14084,Air Aspiriation,60083,Air Aspiriation to CP
+82,D550  Griz Engine,1530,550050,14085,Cooling Package,60087,Front Cooling Package Brace to Frame
+82,D550  Griz Engine,1530,550050,14085,Cooling Package,60084,Cooling Package to Engine Deck
+82,D550  Griz Engine,1530,550050,14085,Cooling Package,60088,Cooling Package Brace to ATD
+82,D550  Griz Engine,1530,550050,14086,Radiator Tubes,60091,Radiator Tubes
+82,D550  Griz Engine,1530,550050,14087,Surge Tank Bulk Hose,60094,Surge Tank Bulk Hose PClamp
+82,D550  Griz Engine,1530,550050,14088,Install Fuel Hoses,60099,Stackable Clamp to Connect Fuel Hose
+82,D550  Griz Engine,1530,550050,14088,Install Fuel Hoses,60103,Fuel Return PClamp
+82,D550  Griz Engine,1530,550050,14089,VPF Hoses,60107,PClamp on Bracket
+82,D550  Griz Engine,1530,550050,14089,VPF Hoses,60108,HDMVPF
+82,D550  Griz Engine,1530,550050,14900,Cooling Package SUB,64644,Fuel Supply Bracket
+82,D550  Griz Engine,1530,550050,14900,Cooling Package SUB,64648,Air Aspiriation hose
+82,D550  Griz Engine,1530,550050,14900,Cooling Package SUB,64649,VPF Hose Bracket
+82,D550  Griz Engine,1530,550050,14902,Mounting Brace,64658,Cooling Package Rear Brace to Frame
+82,D550  Griz Engine,1530,550050,14982,Cover Brace,64980,Cover Brace Bracket
+82,D550  Griz Engine,1531,550060,14523,Hydraulic Vavle to Eng,62370,Hydraulic Valve to Eng
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62385,Install Aftertreatment Support
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62387,ATD Cover Bracket Install
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62404,Temp Sensor Bracket
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62410,Sensor Probes
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62389,NOx Sensor
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,63058,Exhaust Pipe to ATD
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,63126,Pclamps 11
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62423,DEF Injector
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62388,Temperatur Sensor
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62421,ATD Seals on Pressure Tube
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62426,Exhaust Pipe Insulators
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62427,Mini Coolant Tank
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62415,Delta Pressure Sensor
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62424,DEF Injector Seal
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62382,ATD Support Brace
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62428,Stakable Clamps
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,63067,ATD Seals on Pressure Tube2
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,63127,PClamps 2
+82,D550  Griz Engine,1531,550060,14526,ATD SUB,62413,Sensor Insulator
+82,D550  Griz Engine,1532,550070,14090,Shaft Assenbly,60115,Back Bearhing House on Weldment
+82,D550  Griz Engine,1532,550070,14090,Shaft Assenbly,60109,Bearhing Housing On Weldment
+82,D550  Griz Engine,1532,550070,14090,Shaft Assenbly,60119,Pully
+82,D550  Griz Engine,1532,550070,14094,Belt Tensioner Bracket,60126,Belt Tensioner
+82,D550  Griz Engine,1532,550070,14095,Vacuum Fan,60122,Belt Tensioner Bracket
+82,D550  Griz Engine,1532,550070,14095,Vacuum Fan,60136,Vacuum Fan Clamp
+82,D550  Griz Engine,1532,550070,14095,Vacuum Fan,60134,Vac Sub Assembly Bracket
+82,D550  Griz Engine,1532,550070,14095,Vacuum Fan,60131,Vac Fan with Air Aspiration Tube
+82,D550  Griz Engine,1532,550070,14095,Vacuum Fan,60129,Install Vacuum Fan
+82,D550  Griz Engine,1532,550070,14096,Case Drain Hydrolic Hoses,60139,Case Drain Hoses
+82,D550  Griz Engine,1532,550070,14096,Case Drain Hydrolic Hoses,60141,Case Drain Hose to Change Pump
+82,D550  Griz Engine,1532,550070,14097,Suction Hose,60144,Install Suction Hoses
+82,D550  Griz Engine,1532,550070,14097,Suction Hose,60146,Sunction Hose Attachment
+82,D550  Griz Engine,1532,550070,14098,Hydostatic Pump Hose,60152,Route Hydrostatic Pump
+82,D550  Griz Engine,1532,550070,14098,Hydostatic Pump Hose,60147,Hose Support Wireform
+82,D550  Griz Engine,1532,550070,14099,Upper Resrvoir Vent Hose,60155,Upper Reservoir Vent Hose
+82,D550  Griz Engine,1532,550070,14100,Lube Pump MEG Charge,60157,Lube Pump
+82,D550  Griz Engine,1532,550070,14101,SUB Top Engine Cover,60165,Latch
+82,D550  Griz Engine,1532,550070,14101,SUB Top Engine Cover,60161,Install Buckle
+82,D550  Griz Engine,1532,550070,14101,SUB Top Engine Cover,60166,Thermosteel Tube
+82,D550  Griz Engine,1532,550070,14102,Top Cover Install,60173,Handrail Install
+82,D550  Griz Engine,1532,550070,14102,Top Cover Install,60169,Top Cover Install
+82,D550  Griz Engine,1532,550070,14103,Deflector Sheet,60176,LH Bracket
+82,D550  Griz Engine,1532,550070,14103,Deflector Sheet,60182,Residue Sheet
+82,D550  Griz Engine,1532,550070,14104,ATD Installation,60184,ATD Installation
+82,D550  Griz Engine,1532,550070,14105,Exhaust Tube Installation,60191,Gasket
+82,D550  Griz Engine,1532,550070,14105,Exhaust Tube Installation,60189,Exhaust Bracket
+82,D550  Griz Engine,1532,550070,14105,Exhaust Tube Installation,60194,ATD Inlent Insulators
+82,D550  Griz Engine,1532,550070,14105,Exhaust Tube Installation,60192,Gasket to ATD Port
+82,D550  Griz Engine,1532,550070,14105,Exhaust Tube Installation,60195,Exhaust Tube Bracket
+82,D550  Griz Engine,1532,550070,14106,Coolant Line to Manifold,60196,Coolant Hose Support Bracket
+82,D550  Griz Engine,1532,550070,14107,Engine Cladding,62104,Engine Cladding
+82,D550  Griz Engine,1532,550070,14107,Engine Cladding,62105,Engine Cladding 2
+82,D550  Griz Engine,1532,550070,14108,Sheave Assembly On Engine MEG,60205,Install Sheave
+82,D550  Griz Engine,1533,550080,14109,Rear Engine Rail,60210,Install Rear Engine Rail
+82,D550  Griz Engine,1533,550080,14110,Hand Rail Assembly,63329,Handrail To Fuel Tank
+82,D550  Griz Engine,1533,550080,14111,Fuel Hose Supply,60221,Fuel Return Hose
+82,D550  Griz Engine,1533,550080,14111,Fuel Hose Supply,60223,Hose Support Bracket
+82,D550  Griz Engine,1533,550080,14112,Rear Wall Attachment,60227,Install Rear Wall Attachment
+82,D550  Griz Engine,1533,550080,14112,Rear Wall Attachment,63353,Rear Wall Outside Bolts
+82,D550  Griz Engine,1533,550080,14115,Hydro Tank Sub,60277,Routing Bracket
+82,D550  Griz Engine,1533,550080,14115,Hydro Tank Sub,60278,Stackable Clamps
+82,D550  Griz Engine,1533,550080,14115,Hydro Tank Sub,60279,Suction Hose HXE131074
+82,D550  Griz Engine,1533,550080,14115,Hydro Tank Sub,63543,OverFlow Tube
+82,D550  Griz Engine,1533,550080,14115,Hydro Tank Sub,60280,Suction Hose 2
+82,D550  Griz Engine,1533,550080,14115,Hydro Tank Sub,60281,Postion Oil Tube
+82,D550  Griz Engine,1533,550080,14119,DEF Tank SUB,60298,Inline FIlter
+82,D550  Griz Engine,1533,550080,14119,DEF Tank SUB,60290,DEF Tank Brackets
+82,D550  Griz Engine,1533,550080,14119,DEF Tank SUB,60296,Reducer Fitting
+82,D550  Griz Engine,1533,550080,14119,DEF Tank SUB,60295,Breather Port
+82,D550  Griz Engine,1533,550080,14119,DEF Tank SUB,60294,Line Retention Bracket
+82,D550  Griz Engine,1533,550080,14119,DEF Tank SUB,60297,Inline Filter Bracket
+82,D550  Griz Engine,1533,550080,14120,Fuel Tank SUB,60299,Install DEF Tank Sub
+82,D550  Griz Engine,1533,550080,14120,Fuel Tank SUB,60303,Install Hydro Tank Sub
+82,D550  Griz Engine,1533,550080,14122,Suction Hoses,60310,Suction Hoses
+82,D550  Griz Engine,1533,550080,14123,Upper Reservoir Vent Hoses,60312,Upper Reservoir Vent Hoses
+82,D550  Griz Engine,1533,550080,14123,Upper Reservoir Vent Hoses,63369,Upper Reservour Hoses
+82,D550  Griz Engine,1533,550080,14124,Overflow Tube,60313,Hydraulic Hose Coupler
+82,D550  Griz Engine,1533,550080,14124,Overflow Tube,63560,Tighten AXE71021
+82,D550  Griz Engine,1533,550080,14124,Overflow Tube,63567,Tigthen Hose Clamps
+82,D550  Griz Engine,1533,550080,14125,Lube Bypass Hose,60315,Lube Bypass
+82,D550  Griz Engine,1533,550080,14276,Install Fuel Tank,63325,Install Fuel Tank to  Deck
+82,D550  Griz Engine,1534,550100,14142,Dual Turbo,60444,Support Bracket
+82,D550  Griz Engine,1534,550100,14142,Dual Turbo,60447,AIr Intake
+82,D550  Griz Engine,1534,550100,14143,Single Turbo,60449,Support Bracket
+82,D550  Griz Engine,1534,550100,14143,Single Turbo,60448,AIr Intake
+82,D550  Griz Engine,1534,550100,14143,Single Turbo,60450,VClamp
+82,D550  Griz Engine,1534,550100,14144,Hot CAC Tube,60452,Secure Hot CAC Tube
+82,D550  Griz Engine,1534,550100,14144,Hot CAC Tube,63874,Support Bracket
+82,D550  Griz Engine,1534,550100,14144,Hot CAC Tube,60454,Air Intake
+82,D550  Griz Engine,1534,550100,14145,Air Pre Cleaner,60467,Air Duct Pre Cleaner
+82,D550  Griz Engine,1534,550100,14145,Air Pre Cleaner,60466,Mount Air Filter
+82,D550  Griz Engine,1534,550100,14145,Air Pre Cleaner,60468,Air Filter  to Air Intake
+82,D550  Griz Engine,1534,550100,14145,Air Pre Cleaner,60465,Mouting Bracket
+82,D550  Griz Engine,1534,550100,14145,Air Pre Cleaner,60464,Air Duct Pre Cleaner Y Branches
+82,D550  Griz Engine,1534,550100,14146,Fuel Tank Breather,62132,Breather Adapter Bracket Install
+82,D550  Griz Engine,1534,550100,14146,Fuel Tank Breather,62135,Bracket to Air Filter
+82,D550  Griz Engine,1534,550100,14147,Air Intake Suction Hose,60477,Air Intake Suction Hose ac
+82,D550  Griz Engine,1534,550100,14147,Air Intake Suction Hose,60474,Bracket HXE148062
+82,D550  Griz Engine,1534,550100,14147,Air Intake Suction Hose,62139,PClamp 2
+82,D550  Griz Engine,1534,550100,14147,Air Intake Suction Hose,62137,PClamp
+82,D550  Griz Engine,1534,550100,14147,Air Intake Suction Hose,62140,PClamp 3
+82,D550  Griz Engine,1534,550100,14154,2WD Hose,60517,2WD Hydrulic Hose
+82,D550  Griz Engine,1534,550100,14156,4WD Hoses,60528,4WD Hydrulic Hose
+82,D550  Griz Engine,1534,550100,14157,Unloading Auger Cradle,63684,Case Drain Hose P Clamp
+82,D550  Griz Engine,1534,550100,14157,Unloading Auger Cradle,60530,Auger Craddle to Eng
+82,D550  Griz Engine,1534,550100,14160,Hydro Charge Suction Hose,60548,Install Hydro Charge Suction Hose
+82,D550  Griz Engine,1534,550100,14161,LH Engine Deck Side Sheet,60556,Hose Support Bracket
+82,D550  Griz Engine,1534,550100,14161,LH Engine Deck Side Sheet,60557,Secure Hoses
+82,D550  Griz Engine,1534,550100,14161,LH Engine Deck Side Sheet,60558,Shear Bolts
+82,D550  Griz Engine,1534,550100,14161,LH Engine Deck Side Sheet,60551,LH Side Sheet
+82,D550  Griz Engine,1534,550100,14162,Styling Support Bracket,60559,Styling Support Bracket
+82,D550  Griz Engine,1534,550100,14163,Surge Tank,60564,Install Surge tank
+82,D550  Griz Engine,1534,550100,14164,Connect Surge Tank Overflow,63970,hose clamp
+82,D550  Griz Engine,1534,550100,14164,Connect Surge Tank Overflow,60569,Connect Surge Tank Overflow
+82,D550  Griz Engine,1534,550100,14164,Connect Surge Tank Overflow,62141,Hose Clamp
+82,D550  Griz Engine,1534,550100,14166,DEF Suplly Module,62143,DEF Tank to BRacket
+82,D550  Griz Engine,1534,550100,14166,DEF Suplly Module,60584,Bracket to Eng
+82,D550  Griz Engine,1534,550100,14781,Bracket Install Air Pre Cleane,63880,Support Bracket
+82,D550  Griz Engine,1535,550110,14155,Left Rear Wall Attachment,60522,Left Rear Wall
+82,D550  Griz Engine,1535,550110,14155,Left Rear Wall Attachment,60525,Support Bracket
+82,D550  Griz Engine,1535,550110,14168,LH Rear Pannel Support Bracket,60590,Support Plate
+82,D550  Griz Engine,1535,550110,14168,LH Rear Pannel Support Bracket,64750,Rear Wall Support Brackets
+82,D550  Griz Engine,1535,550110,14170,Rear Wall,60602,Rear Wall Support
+82,D550  Griz Engine,1535,550110,14172,Route MEGPOD Wiring,60608,MEGPOD Wiring Harness
+82,D550  Griz Engine,1535,550110,14173,Service Step,60614,AC Option
+82,D550  Griz Engine,1535,550110,14174,DEF Supply Module Cover,60615,DEF Supply Module Cover
+82,D550  Griz Engine,1535,550110,14177,Install Hydraiulic Accumlator,64756,Hydraulic Accumulator
+82,D550  Griz Engine,1535,550110,14177,Install Hydraiulic Accumlator,64751,Support Bracket w Accumilator
+82,D550  Griz Engine,1535,550110,14178,Install Fuel Filter Bracket,60622,Filter Upright Support
+82,D550  Griz Engine,1535,550110,14178,Install Fuel Filter Bracket,60625,Stackable Clamps
+82,D550  Griz Engine,1535,550110,14178,Install Fuel Filter Bracket,60626,HDM
+82,D550  Griz Engine,1535,550110,14179,LH Rear Pannel Support Channel,60630,LH Rear Panel Support 1
+82,D550  Griz Engine,1535,550110,14179,LH Rear Pannel Support Channel,60627,LH Rear Panel Support
+82,D550  Griz Engine,1535,550110,14179,LH Rear Pannel Support Channel,64277,LH Panel Support wStyling bracket
+82,D550  Griz Engine,1535,550110,14181,Hydraulic hoses to filters,60637,Hydraulic Filter AH246243
+82,D550  Griz Engine,1535,550110,14181,Hydraulic hoses to filters,62146,Hydraulic PClamp
+82,D550  Griz Engine,1535,550110,14181,Hydraulic hoses to filters,60634,Hydraulic Filter Aseembly AH246242
+82,D550  Griz Engine,1535,550110,14184,Install AC Line to Condenser,60647,Swivel Clamps
+82,D550  Griz Engine,1535,550110,14937,PClamp Fuel Filter,64761,Support Bracket
+83,D570  Griz Main,1544,570040R,14432,633577  Steering Hoses,62057,Install Steering Hose Bracket
+83,D570  Griz Main,1544,570040R,14432,633577  Steering Hoses,62058,Install Steering Hose PClamps
+83,D570  Griz Main,1544,570040R,14434,637416  4WD Hose Clamps,62072,Install 4WD bracketsclamps
+83,D570  Griz Main,1544,570040R,14434,637416  4WD Hose Clamps,62071,Install Wire Form Brackets
+83,D570  Griz Main,1544,570040R,14435,619560  Install RH FD,62074,Torque RH FD
+83,D570  Griz Main,1544,570040R,14436,1805701  Install HoseBracket,63385,Install Bracket
+83,D570  Griz Main,1544,570040R,14724,916599  Install Transmission,63545,Install Transmission
+83,D570  Griz Main,1546,570060R,14451,1145096  Install Separator RH,62114,Install Sandwich Plate
+83,D570  Griz Main,1546,570060R,14452,1404409  Shoe Drive Shield,62245,Install Shoe Drive Shield
+83,D570  Griz Main,1546,570060R,14453,2129403  RH Support Shields,62246,Install RH Support Shields
+83,D570  Griz Main,1546,570060R,14453,2129403  RH Support Shields,64478,Step Bolt
+83,D570  Griz Main,1546,570060R,14454,1550362  RH Sep Access Plate,62247,Seal to Bulkhead Access Plate
+83,D570  Griz Main,1546,570060R,14455,637411646345  Brake Lines,62249,Steel Line Support Bracket
+83,D570  Griz Main,1546,570060R,14455,637411646345  Brake Lines,62252,Install Steel Line Clamps
+83,D570  Griz Main,1546,570060R,14455,637411646345  Brake Lines,62250,Steel Line PClamp
+83,D570  Griz Main,1546,570060R,14456,828980  RH Main Harness,62258,RH Main Harness Rear
+83,D570  Griz Main,1546,570060R,14456,828980  RH Main Harness,64927,RH Rear Main Harness Grounds
+83,D570  Griz Main,1546,570060R,14457,909954  RH Drive Shaft,62259,RH Final Driveshaft
+83,D570  Griz Main,1546,570060R,14458,802461  Premium Residue CTDD,62260,Premium Residue Pivot Brackets
+83,D570  Griz Main,1546,570060R,14459,828808  Swingers,62264,RH M16 Swinger Bolts
+83,D570  Griz Main,1546,570060R,14459,828808  Swingers,62261,RH M12 Swinger Bolts
+83,D570  Griz Main,1546,570060R,14459,828808  Swingers,64911,Torque Hub Bolt
+83,D570  Griz Main,1546,570060R,14459,828808  Swingers,64910,Torque shoe shaft bolt
+83,D570  Griz Main,1546,570060R,14885,Separator Brackets,64493,SeparatorFan Brackets
+83,D570  Griz Main,1546,570060R,14890,Stack Clamp,64530,Stack Clamp
+83,D570  Griz Main,1546,570060R,14970,828980  RH Main Harness Front,64925,RH Main Harness
+83,D570  Griz Main,1546,570060R,14970,828980  RH Main Harness Front,64926,RH Main Harness Front Grounds
+83,D570  Griz Main,1547,570070R,14732,1891140  Premium Residue CTDD,63726,Clamp Windrow Deflector
+83,D570  Griz Main,1547,570070R,14732,1891140  Premium Residue CTDD,64163,Sub CTDD
+83,D570  Griz Main,1547,570070R,14732,1891140  Premium Residue CTDD,65067,Pivot Brackets
+83,D570  Griz Main,1547,570070R,14732,1891140  Premium Residue CTDD,64166,Install CTDD
+83,D570  Griz Main,1547,570070R,14733,802459  RM Standard Deflector,63729,Standard Deflector Brackets to Sheet
+83,D570  Griz Main,1547,570070R,14733,802459  RM Standard Deflector,63728,Standard Deflector Brackets
+83,D570  Griz Main,1547,570070R,14734,1338794  SepEng Hydraulics,65123,Autotrac Hose Clamps
+83,D570  Griz Main,1547,570070R,14734,1338794  SepEng Hydraulics,64940,Steering Hose PClamp
+83,D570  Griz Main,1547,570070R,14740,1565728  Air Compressor Hoses,63750,Stack ClampsBracket to Rail
+83,D570  Griz Main,1547,570070R,14740,1565728  Air Compressor Hoses,63748,Sep Rail Hydraulic Bracket
+83,D570  Griz Main,1547,570070R,14899,Engine Deck,64629,Torque Engine ShieldsBrackets
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63736,TLID 0001760726  Install and Connect Ether Can
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63756,TLID 0001145092  Engine Fuel Hose Route
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63749,TLID 0000968512  Battery Cable ETN189059 Stackab
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63752,TLID 0000968512  Battery Cable ETN189059 Middle
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63744,TLID 0000968512  Battery Cable ETN189059 L Brack
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63753,TLID 0001145064  Fuel Separator
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63751,TLID 0000968512  Battery Cable ETN189059 3 Stac
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,64532,TLID 0000968512  Battery Cable 3 Stack Offset
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63741,TLID 0000944641  Install Ether Can
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63743,TLID 0000968512  Route Battery Cable ETN189059
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63746,TLID 0000968512  Battery Cable ETN189059 Ground
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63747,TLID 0000968512  Battery Cable ETN189059 Stack
+83,D570  Griz Main,1548,570080R,14737,Torque Tools,63755,TLID 0001145065  Oil Drain Hose Routing
+83,D570  Griz Main,1549,570090R,14622,Torque Tools,62816,TLID 0001091120  Install Fuse Bracket and Centers
+83,D570  Griz Main,1549,570090R,14622,Torque Tools,62817,TLID 0001091120  Install Fuse Centers
+83,D570  Griz Main,1549,570090R,14622,Torque Tools,62814,TLID 0001091120  Install Fuse Bracket
+83,D570  Griz Main,1549,570090R,14622,Torque Tools,65095,Torque Tension Rod to Bracket
+83,D570  Griz Main,1549,570090R,14622,Torque Tools,65150,Ladder Torques
+83,D570  Griz Main,1549,570090R,14717,Brians task from 17R,63509,TLID 0001089530 Upper shield brackets to chassis
+83,D570  Griz Main,1550,570100R,14829,Torque Steps,64230,TLID 0000906903  RH  Mount Chopper  Rail
+83,D570  Griz Main,1550,570100R,14829,Torque Steps,64177,TLID 0001113104  Install Grain Tank RH 4 Bolts
+83,D570  Griz Main,1550,570100R,14829,Torque Steps,64179,TLID 0001113104  Install Grain Tank RH 5 bolts
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64625,TLID 0002186094  Install vacuum tube 2
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64617,TLID 0001404107  Shoe Drive Shield Brackets
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64627,TLID 0002186094  Install vacuum tube 5
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,65170,Torque RH Air Chute
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64616,TLID 0000944633  Install RH ATD Brace
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64620,TLID 0000918670  Install shoe driven pulley 2
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64626,TLID 0002186094  Install vacuum tube 4
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,65024,Station 17 Bracket 2
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64614,TLID 0000750283  Install RH jackshaft pulley
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64618,TLID 0001404107  install filter 2
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64624,TLID 0002186094  Install vacuum tube
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,65023,Station 17 Bracket 1
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,65025,Station 17 Bracket 3
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,65188,Torque pulley after alignment
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,64615,TLID 0001302463  Install CGE 1 tension rod
+83,D570  Griz Main,1551,570110R,14897,Torque Tools,65172,TLID 0002186094  Vacuum tube
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64666,0000752879 2x Install FAST gearcase sub
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64675,0001341525 trachcan pulley
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64669,0000752879 4x Right angle gearcase mount
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64681,0000760746  FAST idler pivot
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64683,0000761823 Cross brktsub LoadingAuger tension rod
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64679,0001341530 RH jackshaft tension rod
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64682,0000761823 Cross auger brkt subassy
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64684,0000763453 cross auger bracket sub
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64688,0000771223  cross auger belt and tension rod
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64668,0000752879 3x bottom gearcase mount
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64686,0000770930 Route loading auger belt
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,63848,00001095748 lower tailings auger and bearing
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64685,0001315197 cross auger idler arm
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64665,0000752879 Install FAST gearcase sub
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64673,0001341525 1x Install trachcan pulley
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,63847,0001095612 Tailings return auger bearing
+83,D570  Griz Main,1552,570120R Op 7 Kelly,14778,Torque Steps,64680,0000760165 mid RH jackshaft belt
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,64586,TLID0000804054  Torque 2 cab bolts
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,64584,TLID0001281935  Torque left isolator
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,64585,TLID0000804054  Install 6 cab bolts to cab
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,64581,TLID0001281935  Rear isolator mount bracket
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,64582,TLID0001281935  Install isolator on RHS brkt
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,64583,TLID0001281935  Install brkt to cab
+83,D570  Griz Main,1554,570140R  DB Op 2A Kelly,14877,DB torque Steps,65499,DB only Subassemble cab foot
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64359,TLID0001283912 CGE Bearing after paddle chain Set
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64875,TLID0000100210  light bracket arm ASABE
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,65148,TLID0002070394  clamp for air compressor
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64358,TLID0001283912 Install CGE bearing
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64886,TLID0002245878  Install RH light bracket ISO
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,65139,For Brian  Battery cable clamps
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64903,TLID0002175794  Install headlights
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64876,TLID0000100210 light bracket arm ISO
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64861,TLID0000823598  Install top of FR RH door brkt
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64882,TLID0002070394  Install grommet to platform
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64888,TLID0001384666  Turn lamp light ISO
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,65140,For Brian  Cables to battery switch
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64355,TLID0000804068 paddle chain cover
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64868,TLID0000100210  RH magnet brkt to RH platform
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,64885,TLID0002245878  Install RH light bracket ASABE
+83,D570  Griz Main,1555,570150R  DB Op 4 Kelly,14861,Torque Steps,65147,bottom middle Rr door brkt
+83,D570  Griz Main,1562,570040L,14430,619551  Install LH FD,62051,Torque LH Final Drive
+83,D570  Griz Main,1563,570050L,14438,801305  Chopper Retainers,62077,Install Chopper Retainers
+83,D570  Griz Main,1563,570050L,14439,1374732  Front Brackets,62079,Install Front Support Brackets
+83,D570  Griz Main,1563,570050L,14441,633064  Tran Plumbing,62086,Install Hose Support Brackets
+83,D570  Griz Main,1563,570050L,14441,633064  Tran Plumbing,62091,Install Tran Hose Clamps
+83,D570  Griz Main,1563,570050L,14441,633064  Tran Plumbing,62090,Install Steel Line Clamps
+83,D570  Griz Main,1563,570050L,14442,793065  FEE Drive Hoses,62092,Install FEE Drive Hose pclamps
+83,D570  Griz Main,1563,570050L,14445,1805871  MMT Controller Cover,62097,Install MMT Controller Cover
+83,D570  Griz Main,1564,570060L,14775,Brians 16L Work for DB only,62705,TLID 000078729512 VariTracShield to LH rail
+83,D570  Griz Main,1564,570060L,14798,804014  Install Separator,63596,Install Separator Sandwich Plate
+83,D570  Griz Main,1564,570060L,14799,Torque Swingers,63695,Tighten LH Swinger M16 bolts
+83,D570  Griz Main,1564,570060L,14799,Torque Swingers,64085,Tighten LH swinger M12 bolts
+83,D570  Griz Main,1564,570060L,14799,Torque Swingers,64909,Torque shaft bolt
+83,D570  Griz Main,1564,570060L,14800,1550391  LH Bulkhead Plate,63602,Install Seal LH Bulkhead Access Plate
+83,D570  Griz Main,1564,570060L,14801,1404420  Brackets,63627,Step Bolt
+83,D570  Griz Main,1564,570060L,14801,1404420  Brackets,63619,Frnt Drive Shield Attchmt Brkt
+83,D570  Griz Main,1564,570060L,14803,828979  LH Main Harness,63660,LH main harness luggage tie
+83,D570  Griz Main,1564,570060L,14803,828979  LH Main Harness,63659,Bulkhead Brackets
+83,D570  Griz Main,1564,570060L,14803,828979  LH Main Harness,63663,LH Main ground lower 5 upright
+83,D570  Griz Main,1564,570060L,14805,1428703  Feed Floor,63668,Feed Floor  2
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63238,TLID 0000748372  Install Discharge Bat 272 Nm
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63252,TLID 0001302429  Install Meg Support Bracket
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63256,TLID 0000787593  Install 4wd bracket HXE129457
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63282,TLID 0000637437  Propulsion Hoses Clamp Front
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63284,TLID 0000637437  Propulsion Hoses Lower clamp 26
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63296,TLID 0000637437  Propulsion Hoses Upper Clamp 56
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63257,TLID 0000637394  4wd block HYD ETN186720ah246536
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63271,TLID 0002310067  Attach ground
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63288,TLID 0000637437  Propulsion Hoses Lower Clamp 56
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63291,TLID 0000637437  Propulsion Hoses Upper Clamp 16
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,62804,TLID 0000747489  Install Drain Tube to rotor gear
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63240,TLID 0000748372  Install Bat 400 Nm
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63262,TLID 0000637437  Propulsion hoses Hy
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63287,TLID 0000637437  Propulsion Hoses Lower Clamp 46
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63294,TLID 0000637437  Propulsion Hoses Upper Clamp 36
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63253,TLID 0000787593  Install  bracket
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63272,TLID 0001302430  Install Discharge Beater Arm
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63278,TLID 0002236590  Install Bracket 3 Upper
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63280,TLID 0002236590  Install Bracket 5
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63298,TLID 0000637437  Propulsion Hoses Upper Clamp 66
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63254,TLID 0000787593  Install 4wd block bracket
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63261,TLID 0000637437  Propulsion Hoses HYD
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63281,TLID 0000637437  Propulsion Hoses Blocks
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,65203,110NM torque hose from engine
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63255,TLID 0000787593  Install pirate bracket
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63274,TLID 0001302431  Install discharge beater rod
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63276,TLID 0000637394  4wd block HYD
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63277,TLID 0002236590  Install hose bracket 2
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63286,TLID 0000637437  Propulsion Hoses Lower Clamp 36
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63258,TLID 0000637437  Propulsion Hoses
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63273,TLID 0001302431  Install discharge beater tension
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63279,TLID 0002236590  Install Bracket 4
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63289,TLID 0000637437  Propulsion hoses Lower Clamp 66
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63293,TLID 0000637437  Propulsion Hoses Upper Clamp 26
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,63295,TLID 0000637437  Propulsion Hoses Upper Clamp 46
+83,D570  Griz Main,1566,570080L,14616,Torque Tools,65058,4wd lower hose brackets
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63781,TLID 0000748526  Chopper Idler Arm Mount
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63797,TLID 0001384776  LH Fan Shield Bracket
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63792,TLID 0000748480  Install cleaning fan idler arm
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63796,TLID 0001384776  LH Stopper Bracket
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63808,TLID 0001302434  Fan Tension Rod PMGN
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63762,TLID 0000748421  Install rotor variable belt
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63769,TLID 0000748495  Install Chopper Idlers
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63803,TLID 0001404036  Upper Hose Shield Brackets
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63800,TLID 0001302459  Chopper Tension Rod
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63806,TLID 0000748495  Idler Brackets
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63766,TLID 0000748471  Install cleaning fan pulley
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63795,TLID 0000642428  Hydrostatic Plumbing Chassis
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63790,TLID 0000748425  Install cleaning fan drives
+83,D570  Griz Main,1567,570090L,14594,Torque Tools,63794,TLID 0000748526  Install idler bracket
+83,D570  Griz Main,1568,570100L,14815,Torque Steps,64174,TLID 0000801309  LH  Mount Chopper  Rail
+83,D570  Griz Main,1568,570100L,14815,Torque Steps,64169,TLID 0000804034  Install Grain Tank LH Hoist
+83,D570  Griz Main,1568,570100L,14815,Torque Steps,64098,TLID 0000804034  Install Grain Tank LH 4 bolts
+83,D570  Griz Main,1568,570100L,14815,Torque Steps,64176,TLID 0000802673  LH Chopper Actuator
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64813,TLID 0000804043  Subassemble FEE Drivers Front 2
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,65201,ATD Bracket
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64814,TLID 0000793061  FEE Drives Install Clamps HY
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,65209,Torque Clamps Install AXE75686
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64613,TLID 0000793072  Chassis Clamps HYD ETN186275 IR
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64817,TLID 0000793072  Chassis Clamps HYD ETN186275
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,65166,Torque LH Air Chute
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,65167,Torque bracket to LH air chute
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,65210,Torque Clamps Install AXE75650
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64815,TLID 0000787279  Route rotor shift cable 1
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64612,TLID 0000793072  Chassis Clamps HYD ETN186275 IR
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,65208,Torque Bracket AC
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64610,TLID 0000793072  Chassis Clamps
+83,D570  Griz Main,1569,570110L,14596,Torque Tools,64816,TLID 0000793072  Chassis Clamps HYD ETN186275 RE
+83,D570  Griz Main,1570,570120L  Op 9 Kelly,14777,Torque Steps,65450,0002155501  FEE FIXED primary driver idler arm
+83,D570  Griz Main,1570,570120L  Op 9 Kelly,14777,Torque Steps,63835,0002155501 FEE VARIABLE primary driver idler
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64363,TLID0000724305  Rethresher Upr Auger Flange
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64364,TLID0000724305  Top rethresher flange
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64370,TLID0001281775  Install washer & bolt to bearing
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64382,TLID0002192467  Install shield shoulder bolts
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64372,TLID0001281920  Install Return Auger Bearing
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64374,TLID0001281927  Install rethresher pulley
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64384,TLID0001375969  Install Upr shield bracket
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64395,TLID0000771910  Final torque to shoe fan driver
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64402,TLID0001359059  Install rethresher camera
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64378,TLID0001281939 Install styling brkt to rethresher
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64380,TLID0000637724  Install clamp to clean fan hose
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64383,TLID0001375969  Install Lwr shield bracket
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64385,TLID0001375969 Install shoulder bolts to Upr brkt
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64386,TLID0001375970  Handle to rethresher belt shield
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64400,TLID0001281939  Install tailings controller
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64369,TLID0001281775  Torque lwr tailings auger bearing
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64390,TLID0000771910  Reinstall shoe fan arm
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64391,TLID0000771910  Reinstall bolt on front of arm
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64365,TLID0001281775  Install bearing plate assembly
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64361,TLID0001341795  Install LH discharge beater sub
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64371,TLID0001281775  Install bearing cover
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64373,TLID0002122326  LH Jackshaft slip clutch pulley
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64375,TLID0001352830  Install rethresher tension rod
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64401,TLID0001359059  Install hinge to grain camera
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64360,TLID 0001093963 Install CG auger and bearing
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64362,TLID0000724305  Rethresher Lwr Auger Flange
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64387,TLID0001341382  Install CG auger speed sensor
+83,D570  Griz Main,1571,570130L  DB Op 10 Kelly,14862,Torque Steps,64381,TLID0000637724  Install 4 clamps
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64472,TLID0000803999  Air Compressor Brackets
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64517,TLID0001358971  Shoulder bolt to gullwing brkt
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64521,TLID0001089528  Install rear idler bracket
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64536,TLID0001300882  Ladder tranport locking bolt DUAL
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64550,TLID0001373501  Install shift shield 990440
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64529,TLID0001300882  ladder pivot bearings SINGLE
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64534,TLID0001300882  Ladder transport locking bolt SGL
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64537,TLID0001300876  Install LH platform to ladder SGL
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64553,TLID0001373501  hose bracket on shift bracket
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64515,TLID0001358971  Install LH Front gullwing brkt
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64518,TLID0001358971  LH rear gullwing latch
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64527,TLID0001089528  Install nut to idler shaft
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64539,TLID0001300876  Attach LH platform to cab support
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64564,TLID0001283906  Attach rotor shift cable
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64570,TLID0000925020  LH light bracket ISO
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64552,TLID0001373501  shift shield 700310
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64565,TLID0000099958  LH frnt magnet brkt to ladder
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64533,TLID0001300882  ladder pivot bearings DUAL
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64549,TLID0001373501  shift handle assembly 990440
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64523,TLID0001089528  Install idler shaft assembly
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64546,TLID0001300876  LH platform to cab support under
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64548,TLID0001300876  Install clamps for shift cable
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64551,TLID0001373501  Shift handle assembly 700310
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64559,TLID0000772604  Install shift brkt to LH landing
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64494,TLID0000803999  Fitting cover clamp & bolt
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64561,TLID0001283906  Attach FAST shift cable
+83,D570  Griz Main,1572,570140L  DB Op 1 Kelly,14878,DB torque Steps,64569,TLID0000925020  LH light brkt ASABE
+83,D570  Griz Main,1573,570150L  DB Op 5,14780,Kellys 15L Torque Steps,64023,0001300925 LH platform handrails
+83,D570  Griz Main,1573,570150L  DB Op 5,14780,Kellys 15L Torque Steps,64037,0001400705 Install row light
+83,D570  Griz Main,1573,570150L  DB Op 5,14780,Kellys 15L Torque Steps,64352,0001313882 cab to cab support ground
+83,D570  Griz Main,1573,570150L  DB Op 5,14780,Kellys 15L Torque Steps,64693,0001300929 SingleDual  ladder handrails 22
+83,D570  Griz Main,1573,570150L  DB Op 5,14780,Kellys 15L Torque Steps,64036,0001300929 SingleDual ladder handrails 12
+83,D570  Griz Main,1573,570150L  DB Op 5,14780,Kellys 15L Torque Steps,64025,0001300925 LH platform handrails row light bracke
+83,D570  Griz Main,1578,570012,14485,1360782  LH Chaffer Sidesheet,62233,Install Bracket
+83,D570  Griz Main,1578,570012,14485,1360782  LH Chaffer Sidesheet,62768,Install Weldment
+83,D570  Griz Main,1578,570012,14617,1360795  RH Chaffer Sidesheet,62773,Install weldment
+83,D570  Griz Main,1578,570012,14617,1360795  RH Chaffer Sidesheet,62772,Install Bracket
+83,D570  Griz Main,1579,570013,14618,Extrusions,62799,Torque Extrusion to Sidesheet
+83,D570  Griz Main,1579,570013,14618,Extrusions,62800,Torque Extrusions
+83,D570  Griz Main,1579,570013,14619,RSA Harness,62805,Install RSA Harness
+83,D570  Griz Main,1579,570013,14620,Cross Support,62806,Install Cross Support
+83,D570  Griz Main,1579,570013,14642,Front Shield,63022,Install Front Shield
+83,D570  Griz Main,1579,570013,14644,Crash Pan,63061,Install Crash Pan Dividers
+83,D570  Griz Main,1579,570013,14644,Crash Pan,63026,Install Crash Pan
+83,D570  Griz Main,1579,570013,14645,Air Box,63029,Install Air Box
+83,D570  Griz Main,1579,570013,14652,Front Chaffer,63181,Front Chaffer Dividers  Sidehill
+83,D570  Griz Main,1579,570013,14652,Front Chaffer,64969,Front Chaffer Dividers  Level Land
+83,D570  Griz Main,1579,570013,14652,Front Chaffer,63060,Front Chaffer Fingers
+83,D570  Griz Main,1580,570014,14688,Return Pan,63244,Step Pan
+83,D570  Griz Main,1580,570014,14688,Return Pan,63246,Side Deflector
+83,D570  Griz Main,1580,570014,14688,Return Pan,63243,90 Brackets
+83,D570  Griz Main,1580,570014,14688,Return Pan,63245,Dividers
+83,D570  Griz Main,1582,570021,14677,Worm Clamps,63182,Worm Clamps
+83,D570  Griz Main,1582,570021,14681,Shields,63213,Shields
+83,D570  Griz Main,1583,570022,14632,Extrusions,62865,Torque Extrusions
+83,D570  Griz Main,1583,570022,14632,Extrusions,62864,Install Extrusions
+83,D570  Griz Main,1583,570022,14852,Sieve Floor,64288,Filler Bolts
+83,D570  Griz Main,1583,570022,14852,Sieve Floor,64291,BracketsShield
+83,D570  Griz Main,1583,570022,14852,Sieve Floor,64286,Sieve Floor
+83,D570  Griz Main,1583,570022,14853,RSA Harness,64292,RSA Harness  1
+83,D570  Griz Main,1583,570022,14853,RSA Harness,64294,RSA Harness  2
+83,D570  Griz Main,1587,570041L,14653,Torque Steps,64907,182NM 10 2nd Motor
+83,D570  Griz Main,1587,570041L,14653,Torque Steps,63064,182Nm  10
+83,D570  Griz Main,1587,570041L,14653,Torque Steps,63063,367Nm  10
+83,D570  Griz Main,1587,570041L,14653,Torque Steps,63701,2nd motor 367NM10
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63101,TLID 0000803757  Install 2 19m7866 bolt
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63081,TLID 0001302647  Install bracket hxe131173
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63077,TLID 0001302535  Install hxe131174
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63080,TLID 0001302537  Install filter axe64047
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63102,TLID 0000633094  Install 5 HXE127195
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63124,TLID 0000621987  Install Motor AXE61504
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63076,TLID 0001302534  Install HXE131171
+83,D570  Griz Main,1588,570041,14559,Torque Tools,63079,TLID 0001302536  Install bracket HXE132013
+83,D570  Griz Main,1589,570042,14573,1386074  Cover Plates,62607,Install Covers Plates
+83,D570  Griz Main,1589,570042,14574,1400417  Extension Bolts,62609,Torque Axle Extensions
+83,D570  Griz Main,1589,570042,14575,622005  Steering Cylinder,63133,Install Steering Cylinder
+83,D570  Griz Main,1589,570042,14578,1400840  OTRE Caps,63138,Install OTRE Caps
+83,D570  Griz Main,1589,570042,14579,1402446  Tie Rod Clamp,63143,Tie Rod Clamp Bolts  2
+83,D570  Griz Main,1589,570042,14579,1402446  Tie Rod Clamp,62616,Tie Rod Clamp Bolts  1
+83,D570  Griz Main,1589,570042,14580,1400894  Worm Gear Clamp,62617,Install Worm Clamps
+83,D570  Griz Main,1589,570042,14582,637415  4WD Wire Brackets,62619,4WD Wire Form Brackets
+83,D570  Griz Main,1589,570042,14583,1403243  4WD Hoses,62620,4WD Hoses
+83,D570  Griz Main,1589,570042,14584,631576  Steering Stop Bolts,63176,Steering Stop Bolts
+83,D570  Griz Main,1669,570121R  Op 7 Kelly,14895,DB Torque Steps,63853,0000752538 FAST sub gearcase splines
+83,D570  Griz Main,1669,570121R  Op 7 Kelly,14895,DB Torque Steps,63852,0000752538 FAST Sub pulley to shaft
+83,D570  Griz Main,1669,570121R  Op 7 Kelly,14895,DB Torque Steps,63851,0000752538 FAST subassembly bell crank bracket
+84,D520  Griz Gray Sep,1615,520011,14366,Discharge Grate Assembly,62016,Discharge Grate Assembly 2
+84,D520  Griz Gray Sep,1615,520011,14366,Discharge Grate Assembly,61756,Discharge Grate Assembly 1
+84,D520  Griz Gray Sep,1615,520011,14367,LH Discharge Side Sheet,62178,Assemble Plate to LH Side Sheet
+84,D520  Griz Gray Sep,1615,520011,14368,RH Discharge Side Sheet,61759,Assemble RH Side Sheet to Discharge Grate Assembly
+84,D520  Griz Gray Sep,1615,520011,14369,Bulkhead Assembly,64662,Assemble Rear Bulkhead to Rotor Gearcase
+84,D520  Griz Gray Sep,1615,520011,14390,Rotor Drive Gear Case Assembly,61822,Rotor Drive Gear Case to RH Side Sheet
+84,D520  Griz Gray Sep,1615,520011,14390,Rotor Drive Gear Case Assembly,61823,Rotor Drive Gear Case to LH Side Sheet
+84,D520  Griz Gray Sep,1615,520011,14421,Discharge Housing Assembly,61983,Assemble Bracket 2 to Discharge Housing Assembly
+84,D520  Griz Gray Sep,1615,520011,14421,Discharge Housing Assembly,61760,Assemble Bracket 1 to Discharge Housing Assembly
+84,D520  Griz Gray Sep,1615,520011,14421,Discharge Housing Assembly,61984,Assemble LH Side Sheet to Discharge Housing
+84,D520  Griz Gray Sep,1615,520011,14422,Discharge Ramps,62014,Assemble LH Discharge Ramp
+84,D520  Griz Gray Sep,1615,520011,14422,Discharge Ramps,62015,Assemble RH Discharge Ramp
+84,D520  Griz Gray Sep,1616,520016,14210,Feed Section Brackets,62193,Front Bulkhead Brackets
+84,D520  Griz Gray Sep,1616,520016,14431,Upright Castings,62054,Assemble Sandwich plates to LH Upright Casting
+84,D520  Griz Gray Sep,1616,520016,14431,Upright Castings,62052,Assemble Sandwich Plates to RH Upright Casting
+84,D520  Griz Gray Sep,1616,520016,14472,Feed Section Subassembly,62183,Center Feed Section Housing To LH & RH Castings
+84,D520  Griz Gray Sep,1616,520016,14472,Feed Section Subassembly,62184,LH Feed Section Casting
+84,D520  Griz Gray Sep,1616,520016,14472,Feed Section Subassembly,62188,Feed Section Casting 1
+84,D520  Griz Gray Sep,1616,520016,14472,Feed Section Subassembly,62190,Feed Section Ramps
+84,D520  Griz Gray Sep,1616,520016,14472,Feed Section Subassembly,62186,Center Feed Section Casting 1
+84,D520  Griz Gray Sep,1616,520016,14472,Feed Section Subassembly,62191,Front Bulkhead Weldment
+84,D520  Griz Gray Sep,1616,520016,14473,Feed Section Assembly,62195,Upright Castings to Feed Section 2
+84,D520  Griz Gray Sep,1616,520016,14473,Feed Section Assembly,62194,Upright Castings to Feed Section 1
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63047,RH Rail Grate Assembly 1
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63052,RH Rail to RH Discharge Side Sheet
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63046,LH Rail Grate Assembly 1
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63051,LH Rail to Rotor Gear Case
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63055,RH Rail to Feed Section
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,64125,RH Rail Grate Assembly 2
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63048,LH Grate Deflectors
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63050,LH Rail to LH Discharge Side Sheet
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63053,RH Rail to Rotor Gear Case
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63054,LH Rail to Feed Section
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,63049,RH Grate Deflectors
+84,D520  Griz Gray Sep,1619,520020,14646,Rail Assembly,64124,LH Rail Grate Assembly 2
+84,D520  Griz Gray Sep,1619,520020,14648,Auger Assembly,64757,Auger Assembly
+84,D520  Griz Gray Sep,1619,520020,14649,Discharge Beater Bearings,64130,RH Discharge Beater Bearings
+84,D520  Griz Gray Sep,1619,520020,14649,Discharge Beater Bearings,63056,LH Discharge Beater Bearings
+84,D520  Griz Gray Sep,1619,520020,14649,Discharge Beater Bearings,65079,Discharge Beater Bearing Collar
+84,D520  Griz Gray Sep,1622,520050,14827,LH Rotor Install,64152,LH Rotor Plate to Feed Section Casting
+84,D520  Griz Gray Sep,1622,520050,14827,LH Rotor Install,64154,LH Rotor Plate to Spine Extrusion Weldment
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64661,LH Top Cover to Rear Bulk Head
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64667,RH Top Cover to RH Rail
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64671,RH Top Covers
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64670,RH Top Cover to Rear Bulk Head
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64511,RH Top Cover to Spine
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64664,LH Top Covers
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64504,LH Top Cover to Spine
+84,D520  Griz Gray Sep,1622,520050,14888,Top Cover Install,64856,LH Top Cover to LH Rail
+84,D520  Griz Gray Sep,1622,520050,14963,RH Rotor Install,64839,RH Rotor Plate to Spine Extrusion Weldment
+84,D520  Griz Gray Sep,1622,520050,14963,RH Rotor Install,64838,RH Rotor Plate to Feed Section Casting
+84,D520  Griz Gray Sep,1622,520050,15000,Rotor Bearings,65102,LH Rotor Bearing
+84,D520  Griz Gray Sep,1622,520050,15000,Rotor Bearings,65103,RH Rotor Bearing
+84,D520  Griz Gray Sep,1626,520026,14507,Spine Extrusion Subassembly,62289,Torque Plate Hardware
+84,D520  Griz Gray Sep,1626,520026,14507,Spine Extrusion Subassembly,62288,Bracket to Spine Extrusion 2
+84,D520  Griz Gray Sep,1626,520026,14507,Spine Extrusion Subassembly,62290,Plate to Spine Extrusion 1
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62294,Wear Plates to Top Spine Extrusion 2
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62305,Hose Bracket to Spine Extrusion Assembly
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62291,Bracket to Spine Extrusion 3
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62298,Wear Plates to Bottom Spine Extrusion 2
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62303,Inner Grates to Brackets
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62292,Front Spine Weldment
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62302,Concave Supports to Bottom Spine Extrusion
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62293,Wear Plates to Top Spine Extrusion 1
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62295,Wear Plates to Bottom Spine Extrusion 1
+84,D520  Griz Gray Sep,1626,520026,14508,Spine Extrusion Assembly,62297,Wear Plate to Spine Assembly
+84,D520  Griz Gray Sep,1626,520026,14612,Discharge Housing to Spine,62739,Bulkhead to Top of Spine
+84,D520  Griz Gray Sep,1626,520026,14612,Discharge Housing to Spine,62738,Bulkhead to Bottom of Spine
+84,D520  Griz Gray Sep,1626,520026,14613,Feeder House to Spine,62740,Feeder House to Spine
+84,D520  Griz Gray Sep,1626,520026,14614,Housing to Feeder House,62741,Housing to Feeder House
+84,D520  Griz Gray Sep,1626,520026,14615,Discharge Beater Cover,62743,Cover to Discharge Housing
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,63031,LH Concave to Separator
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,63033,LH Concave Subassembly
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,64133,RH Concave Bracket
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,64134,RH Z Bar Brackets
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,63038,LH Z Bar Brackets
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,63034,LH Concave Bracket
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,64135,RH Concave to Separator
+84,D520  Griz Gray Sep,1626,520026,14640,Concave Assembly,64136,RH Concave Subassembly
+84,D520  Griz Gray Sep,1626,520026,14651,LH Z Bar Assembly,63039,LH Z Bar Supports 1
+84,D520  Griz Gray Sep,1626,520026,14651,LH Z Bar Assembly,63040,LH Z Bar Supports 2
+84,D520  Griz Gray Sep,1626,520026,14822,RH Z Bar Assembly,64127,RH Z Bar Supports 1
+84,D520  Griz Gray Sep,1626,520026,14822,RH Z Bar Assembly,64128,RH Z Bar Supports 2
+85,D555  Griz Post Sep,1632,555010R,14849,Front Rotor Drain Covers,64278,LH Front Rotor Drain Covers
+85,D555  Griz Post Sep,1632,555010R,14849,Front Rotor Drain Covers,64279,RH Front Rotor Drain Covers
+85,D555  Griz Post Sep,1632,555010R,14850,DV Idler Arm,64282,Idler Arm and Bracket
+85,D555  Griz Post Sep,1632,555010R,14851,Rear Rotor Drain Covers,64290,Rear Access Top Covers 1
+85,D555  Griz Post Sep,1632,555010R,14851,Rear Rotor Drain Covers,64284,Rear Rotor Drain Covers
+85,D555  Griz Post Sep,1632,555010R,14851,Rear Rotor Drain Covers,64289,Rear Access Top Covers 2
+85,D555  Griz Post Sep,1632,555010R,14854,Rear Hose BracketClamps,64463,Install Clamp Rear Clamp to Spine
+85,D555  Griz Post Sep,1632,555010R,14854,Rear Hose BracketClamps,64454,Install Clamp to Rear of Separator
+85,D555  Griz Post Sep,1632,555010R,14854,Rear Hose BracketClamps,64293,Hose Bracket  HXE148839
+85,D555  Griz Post Sep,1632,555010R,14854,Rear Hose BracketClamps,64452,Install Clamps on Bracket
+85,D555  Griz Post Sep,1632,555010R,14879,Front End Hose Clamps,64471,Install Front Side Hose Clamps
+85,D555  Griz Post Sep,1632,555010R,14879,Front End Hose Clamps,64473,Install Front Hose Clamps
+85,D555  Griz Post Sep,1632,555010R,14882,Install Side Bracket,64487,Install Side Bracket
+85,D555  Griz Post Sep,1632,555010R,14884,Installing Rear DClips,64490,Installing Rear DClips
+85,D555  Griz Post Sep,1632,555010R,14887,Installing Hose Sub Assembly,64513,Installing DClips to Hose Assembly
+85,D555  Griz Post Sep,1632,555010R,14887,Installing Hose Sub Assembly,64503,Installing Hose Assembly
+85,D555  Griz Post Sep,1632,555010R,14941,Installing RHS Main Harnesses,64854,Installing Wire Harness to Side Rail
+85,D555  Griz Post Sep,1632,555010R,14941,Installing RHS Main Harnesses,65016,Installing Harness Clips
+85,D555  Griz Post Sep,1632,555010R,14941,Installing RHS Main Harnesses,65021,Installing ACI Cylinder Harness Clamp
+85,D555  Griz Post Sep,1632,555010R,14943,Installing Hose Asm to Bracket,64782,Installing Hose Assembly to Bracket 2
+85,D555  Griz Post Sep,1632,555010R,14943,Installing Hose Asm to Bracket,64783,Installing Hose Assembly to Bracket 3
+85,D555  Griz Post Sep,1632,555010R,14943,Installing Hose Asm to Bracket,64779,Installing Hose Assembly to Bracket 1
+85,D555  Griz Post Sep,1634,555020R,14972,ACI Valve Assembly,64942,Installing Bracket to Valve
+85,D555  Griz Post Sep,1634,555020R,14972,ACI Valve Assembly,64947,Installing Valve Bracket to Separator
+85,D555  Griz Post Sep,1634,555020R,14972,ACI Valve Assembly,64977,Installing Elbow Fitting to ACI Valve
+85,D555  Griz Post Sep,1634,555020R,14979,Installing Hoover Scoops,65019,Installing Hoover Scoops 2
+85,D555  Griz Post Sep,1634,555020R,14979,Installing Hoover Scoops,65022,Installing Hoover Scoops 4
+85,D555  Griz Post Sep,1634,555020R,14979,Installing Hoover Scoops,65017,Installing Hoover Scoops 3
+85,D555  Griz Post Sep,1634,555020R,14979,Installing Hoover Scoops,65018,Installing Hoover Scoop Brackets
+85,D555  Griz Post Sep,1634,555020R,14979,Installing Hoover Scoops,65498,Installing Plate
+85,D555  Griz Post Sep,1634,555020R,14979,Installing Hoover Scoops,65020,Installing Hoover Scoops 1
+85,D555  Griz Post Sep,1634,555020R,14984,Fastening Loose Hose Asm Clamp,65007,Fastening Loose Hose Asm Clamp
+85,D555  Griz Post Sep,1634,555020R,14985,Assemble ACI Cylinder Brackets,65013,Assemble ACI Cylinder Brackets 4
+85,D555  Griz Post Sep,1634,555020R,14985,Assemble ACI Cylinder Brackets,65010,Assemble ACI Cylinder Brackets 1
+85,D555  Griz Post Sep,1634,555020R,14985,Assemble ACI Cylinder Brackets,65012,Assemble ACI Cylinder Brackets 3
+85,D555  Griz Post Sep,1634,555020R,14985,Assemble ACI Cylinder Brackets,65011,Assemble ACI Cylinder Brackets 2
+85,D555  Griz Post Sep,1634,555020R,14987,Install ACI Sensor Kit,65026,Assemble RHS ACI Cylinder Sensor Kits
+85,D555  Griz Post Sep,1634,555020R,14987,Install ACI Sensor Kit,65030,Assemble LHS ACI Cylinder Sensor Kits
+85,D555  Griz Post Sep,1634,555020R,15004,Asm ACI Cylinders to Separator,65131,Fastening LHS ACI Cylinders to Separator
+85,D555  Griz Post Sep,1634,555020R,15004,Asm ACI Cylinders to Separator,65015,Fastening RHS ACI Cylinders to Separator
+85,D555  Griz Post Sep,1636,555030R,14907,Cab Support to Module,64699,Torque Cab Support To Separator Module
+85,D555  Griz Post Sep,1636,555030R,14910,RH Wiring Harness to Separator,64710,Secure RH Wiring Harness To Separator
+85,D555  Griz Post Sep,1636,555030R,14911,Ground Strap,64711,Ground Strap
+85,D555  Griz Post Sep,1636,555030R,14912,ACI Hydraulic Hose,64714,ACI Hydraulic Hose
+85,D555  Griz Post Sep,1636,555030R,14914,Brake Valve Hydraulic Hose,64716,Brake Valve Hydraulic Hose
+85,D555  Griz Post Sep,1636,555030R,14915,Cab Support Brackets,64719,Cab Support Bracket RH
+85,D555  Griz Post Sep,1636,555030R,14915,Cab Support Brackets,64717,Cab Support Brackets
+85,D555  Griz Post Sep,1636,555030R,14919,Discharge Beater Pulleys,64721,Discharge Beater Pulleys
+85,D555  Griz Post Sep,1636,555030R,14920,Tensioner Bracket,64722,Tensioner Bracket
+85,D555  Griz Post Sep,1636,555030R,14921,Shifter Cable,64723,Shifter Cable
+85,D555  Griz Post Sep,1636,555030R,14923,Shifter Cable Routing LH Rail,64725,Shifter Cable Routing LH Rail
+85,D555  Griz Post Sep,1636,555030R,14925,Driveshaft Coupling,64727,Driveshaft Couple
+85,D555  Griz Post Sep,1636,555030R,14926,Hyd Hose RDP 1st,64728,Hydraulic Hose to Rotor Driven Pulley 1st
+85,D555  Griz Post Sep,1636,555030R,14927,Hyd Hose RDP 2nd,64729,Hydraulic Hose To Rotor Driven Pulley 2nd
+85,D555  Griz Post Sep,1636,555030R,14928,Hyd Fitting RDP,64731,Hydraulic Fitting to Rotor Driven Pulley
+85,D555  Griz Post Sep,1636,555030R,14930,Controller,64733,Controller
+85,D555  Griz Post Sep,1636,555030R,14931,LH Upper Clamps,64893,LH Upper Stack Clamps
+85,D555  Griz Post Sep,1636,555030R,14992,LH Lower Clamps,65062,LH Upper Stack Clamps
+85,D555  Griz Post Sep,1636,555030R,14993,Shift Cable Bracket Gear Case,65063,Shifter Cable Bracket to Gear Case
+85,D555  Griz Post Sep,1636,555030R,14994,Shift Cable Clamp To Bracket,65064,Shifter Cable Bracket to Gear Case
+86,D532  PrePaint GT,1693,532305L A Main ALM,17287,Torques Pos 1,75900,Torque Trough Support Bracket
+86,D532  PrePaint GT,1693,532305L A Main ALM,17287,Torques Pos 1,75902,Torque Front Cover to GT
+86,D532  PrePaint GT,1693,532305L A Main ALM,17287,Torques Pos 1,75901,S Torque 3 Step Subs to GT
+86,D532  PrePaint GT,1693,532305L A Main ALM,17289,Torques Pos 2,75897,S First Debris Management Bracket
+86,D532  PrePaint GT,1693,532305L A Main ALM,17289,Torques Pos 2,75898,S Second Debris Management Bracket
+86,D532  PrePaint GT,1693,532305L A Main ALM,17289,Torques Pos 2,75899,S Third Debris Management Bracket
+86,D532  PrePaint GT,1693,532305L A Main ALM,17291,Torques Pos 3,75774,S Torque RH panel
+86,D532  PrePaint GT,1693,532305L A Main ALM,17291,Torques Pos 3,75903,Torque Front Auger Cover Bracket
+86,D532  PrePaint GT,1693,532305L A Main ALM,17293,Torques Pos 4,75896,S Top Torques RH Panel
+86,D532  PrePaint GT,1693,532305L A Main ALM,17293,Torques Pos 4,96132,S Install 1 Step Subs to GT
+86,D532  PrePaint GT,1694,532320L A Sub Step Subassembly,17294,Torques,68863,S Series Step Bracket Subassembly QTY 4
+86,D532  PrePaint GT,1695,532320L A Main Top Cap  Cross Brace,17404,install floor bolts,96115,Install Floor Bolts
+86,D532  PrePaint GT,1695,532320L A Main Top Cap  Cross Brace,17405,Install CH wall bolts,96116,Install CH Side Wall Bolts Inside
+86,D532  PrePaint GT,1695,532320L A Main Top Cap  Cross Brace,17405,Install CH wall bolts,96117,Charge Housing Install support tube
+86,D532  PrePaint GT,1695,532320L A Main Top Cap  Cross Brace,17406,Install CH Floor Bolts,96119,Install CH Floor Bolts
+86,D532  PrePaint GT,1695,532320L A Main Top Cap  Cross Brace,17407,install turret support bracket,96118,Torque support tube bolts
+86,D532  PrePaint GT,1695,532320L A Main Top Cap  Cross Brace,17409,install LH panel,96494,LH Panel
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,17401,Torques PreTool Removal,96123,Charge Housing Top Rear
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,17401,Torques PreTool Removal,96122,Charge Housing Bottom Rear
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,17401,Torques PreTool Removal,96126,Charge Housing Bottom Rear bracket
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,19433,Torques Post Tool Removal,96129,Charge Housing Front Top
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,19433,Torques Post Tool Removal,96130,38 GC to CH
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,19433,Torques Post Tool Removal,96121,Charge Housing Front
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,19433,Torques Post Tool Removal,96131,33 GC to CH
+86,D532  PrePaint GT,1696,532320R A Main CannonCharge Housing Install,19498,Install Idler Drive Bracket\,96127,Unload Drive Idler Bracket
+86,D532  PrePaint GT,1697,532330R A Main SSeries Auger Install,17391,Sprocket  Idler Assembly,76010,Assemble 38 Sprocket to grain tank
+86,D532  PrePaint GT,1698,532322 A Sub CannonCH Sub,17309,Atlas Copco Torque,75725,Torque Cannon
+86,D532  PrePaint GT,1699,532324 A Sub Charge Housing Subassembly,17304,Wear Plate for 38 Gear Case,75717,Wear Plate for 38 Gear Case Only
+86,D532  PrePaint GT,1699,532324 A Sub Charge Housing Subassembly,17305,33 Gear CaseCharge Housing,75718,Gear CasetoCharge Housing Assembly 33
+86,D532  PrePaint GT,1699,532324 A Sub Charge Housing Subassembly,17306,38 Gear Case  Charge Housing,75719,38 GEAR CASE TO CHARGE HOUSING
+86,D532  PrePaint GT,1699,532324 A Sub Charge Housing Subassembly,17368,Window wldmt for 33 GearCase,75912,Window Weldment for 33 Gear Case Only
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75734,Elbow Drive and Gear Case
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75737,UNLD Elbow Drive Asm
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75736,Gear Box to Turret Asm
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75739,30mm Socket  Gear Case To UNLD Auger
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75733,Cannon to Elbow Assembly
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75735,Pivot Ball to Casting
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75740,Bearing Carrier to Casting
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,96056,Torque Adapter to Casting Plate
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,96103,Torque 1 19M7785 Bolt to casting
+86,D532  PrePaint GT,1700,532326 A Sub Cannon Subassembly,17313,Elbow to 26 Cannon,75738,Harness Brkt to Casting
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,17408,Install LH Top Rail,96139,Top Rail  Panel
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,17408,Install LH Top Rail,96138,Top Rail  Front Bracket
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,17408,Install LH Top Rail,96141,Top Rail  Rear Bracket
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,17408,Install LH Top Rail,96140,Top Rail  Rear
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19431,Install Lock Collars,96178,Lock Collar Set Screw
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19457,Install Bearing Plates,96176,LH Bearing Plate
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19457,Install Bearing Plates,96193,Set Auger Shaft  Torque Bearing Flangettes
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19457,Install Bearing Plates,96177,RH Bearing Plate
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19458,Install Sprockets,96180,38 Chain Sprocket Jam Nuts
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19458,Install Sprockets,96347,33 Chain Sprocket Bolts
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19458,Install Sprockets,96348,33 Chain Sprocket Jam Nuts
+86,D532  PrePaint GT,1701,532340R A Main Lowerator,19458,Install Sprockets,96179,38 Chain Sprocket Bolts
+86,D532  PrePaint GT,1817,532410 A Sub Charge Housing Weld,6617,HUR Charge Housing,26165,Charge Housing AssemblyA
+86,D532  PrePaint GT,1818,532510 A Sub ULA PrePaint Assembly,7001,TORQUE,27334,TLID 15  Folding Casting Inner
+86,D532  PrePaint GT,1818,532510 A Sub ULA PrePaint Assembly,7001,TORQUE,27330,TLID 1318  Bearing Carrier
+86,D532  PrePaint GT,1818,532510 A Sub ULA PrePaint Assembly,7001,TORQUE,27331,TLID 14  Folding Casting Outer
+96,D485  TalonHydra,1740,New Station 1  TALON ONLY,15633,Tal  Floor Support & Sensors,68146,16R20 Assemble Routing Clamps
+96,D485  TalonHydra,1740,New Station 1  TALON ONLY,15633,Tal  Floor Support & Sensors,68154,FCH  Assemble Controller on Main Frame
+96,D485  TalonHydra,1740,New Station 1  TALON ONLY,15633,Tal  Floor Support & Sensors,68143,16R30 ASSEMBLE ROUTING CLAMPS
+96,D485  TalonHydra,1740,New Station 1  TALON ONLY,15633,Tal  Floor Support & Sensors,68145,18R22 Assemble Routing Clamps
+96,D485  TalonHydra,1740,New Station 1  TALON ONLY,15634,Tal  Hydraulics,68158,FCHAssembleActiveEndFenderFlowDivider
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,67168,16R30 FCH  Asemble RH Jackshaft Housing to Frame
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,66674,Assemble RH Drive Sprocket
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,67162,16R30 FCHAssemble LH Mid Bearing Bolts
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,67165,16R30 FCH  Assemble RH Center Bearing Bolts
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,66672,16R30 FCH  RH Rear Main Drive Hub Housing
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,68269,16R30FCH  AssembleLHBackshaft Mid BearingBracket
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,67163,16R30 FCHAssemble RH Mid Bearing Bolts
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,67167,16R30 FCH  Asemble LH Jackshaft Housing to Frame
+96,D485  TalonHydra,1741,10A,15374,Tal  Drive Torques,67161,16R30FCH  AssembleRHBackshaft Mid BearingBracket
+96,D485  TalonHydra,1741,10A,15377,Tal  Hydraulics,66738,FCH  Assemble Bracket to Solenoid Valve
+96,D485  TalonHydra,1741,10A,15377,Tal  Hydraulics,66967,16R30FCHInstallRHWingLinkagetoMainFrame
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66849,18R22 FCH  Assemble RHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66840,16R20 FCH  Assemble RHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66730,12R30 FCH  Assemble RHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66731,12R30 FCH  Assemble RHS 2 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66728,16R30 FCH  Assemble RHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66729,16R30 FCH  Assemble RHS 2 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15378,Tal  RH Stripper Plates,66841,16R20 FCH  Assemble RHS 2 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15397,Tal  LH Stripper Plates,66860,16R30 FCH  Assemble LHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15397,Tal  LH Stripper Plates,66863,12R30 FCH  Assemble LHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15397,Tal  LH Stripper Plates,66878,18R22 FCH  Assemble LHS 2 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15397,Tal  LH Stripper Plates,66861,16R30 FCH  Assemble LHS 2 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15397,Tal  LH Stripper Plates,66877,18R22 FCH  Assemble LHS 1 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15397,Tal  LH Stripper Plates,66864,12R30 FCH  Assemble LHS 2 FloorSheet & Stripper
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67074,16R2012R3018R22 FCH  Assemble LH SupportBracket
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67081,16R2012R3018R22FCHLHChanneltoFrame
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67080,16R2012R3018R22FCHRHLockingPlatetoFrame
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67082,16R2012R3018R22FCHRHChanneltoFrame
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67084,16R2012R3018R22FCHRHCovertoFrame
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67076,16R2012R3018R22 FCH  Assemble RH SupportBracket
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67079,16R2012R3018R22FCHLHLockingPlatetoFrame
+96,D485  TalonHydra,1741,10A,15437,Tal  Assemble Compatible Kit,67083,16R2012R3018R22FCHLHCovertoFrame
+96,D485  TalonHydra,1741,10A,15618,TAL  LH Auger tensioner,67995,FCH  Torque Upper right bolts of tensioner
+96,D485  TalonHydra,1741,10A,15618,TAL  LH Auger tensioner,67996,FCH  Torque lower left bracket bolt
+96,D485  TalonHydra,1741,10A,15618,TAL  LH Auger tensioner,67981,FCH  Torque upper left bracket
+96,D485  TalonHydra,1741,10A,15619,Tal  LH Drive Tensioner,67998,FCH  Torque Upper right bolts of tensioner
+96,D485  TalonHydra,1741,10A,15620,Tal  Hydraulic cylinders,68005,FCH  Torque cylinder and hinge bolts
+96,D485  TalonHydra,1741,10A,15621,Tal  Install Bearing Bracket,68008,FCH  Install Bearing Bracket
+96,D485  TalonHydra,1741,10A,15641,Tal  Hydraulics WO ClickI03,68254,16R30FCHAssembleRHWingFoldingSensorShield
+96,D485  TalonHydra,1741,10A,15641,Tal  Hydraulics WO ClickI03,68255,16R30FCHAssembleLHWingFoldingSensorShield
+96,D485  TalonHydra,1742,10B,15373,Tal  Torques,66658,16R30 FCH  LH Rear Main Drive Hub Housing
+96,D485  TalonHydra,1742,10B,15373,Tal  Torques,66660,FCH  Assemble LH Drive Sprocket
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68034,FCH  RH Auger End Bearing
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68024,Install LH Polyfold Linkage on Main Frame 1
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68026,Install LH Polyfold Linkage on Main Frame 3
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68028,Install RH Polyfold Linkage on Main Frame 2
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68029,Install RH Polyfold Linkage on Main Frame 3
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68025,Install LH Polyfold Linkage on Main Frame 2
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68031,FCH  LH Auger End Bearing Plate
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68032,FCH  RH Auger End Bearing Plate
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68033,FCH  LH Auger End Bearing
+96,D485  TalonHydra,1743,20A,15444,Tal  RH Auger Torques,68027,Install RH Polyfold Linkage on Main Frame 1
+96,D485  TalonHydra,1745,40A,15456,Tal  Torques,67188,FCH  Assemble LH Polyfold Frame
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66619,18R22 FCH  Torque Row Unit Studs Pickles
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66610,16R30 FCH  Torque Row Unit Bolts Pickles2
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66609,16R30 FCH  Torque Row Unit Studs Pickles
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66614,16R20 FCH  Torque Row Unit Studs Pickles
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66616,16R20 FCH  Torque Row Unit Studs Pickles2
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66618,12R30 FCH  Torque Row Unit Studs Pickles2
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66620,18R22 FCH  Torque Row Unit Studs Pickles2
+96,D485  TalonHydra,1746,40B,15370,Tal  Row Unit Torques,66617,12R30 FCH  Torque Row Unit Studs Pickles
+96,D485  TalonHydra,1747,50A,15372,Tal  RH Sprocket Torques,66631,FCH  RH Front Main Drive Hub Housing
+96,D485  TalonHydra,1747,50A,15372,Tal  RH Sprocket Torques,66633,FCH  Assemble RH Drive Sprocket
+96,D485  TalonHydra,1748,50B,15371,Tal  LH Sprocket Torques,66621,FCH  LH Front Main Drive Hub Housing
+96,D485  TalonHydra,1748,50B,15371,Tal  LH Sprocket Torques,66623,FCH  Assemble LH Drive Sprocket
+96,D485  TalonHydra,1749,60A,15402,Tal  RH Oil Pan,66902,FCH  Assemble Oil Pan
+96,D485  TalonHydra,1751,60C,15401,Tal  LH Oil Pan,66901,FCH  Assemble Oil Pan
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68864,Auger Cover Bracket
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68869,GT Steps
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68865,RH Panel FrontRearBottom
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,70288,RH Panel Top
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68866,Vibration Bracket
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68895,Trough Support Bracket
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68868,Debris Management Brackets
+97,D532 Lab  Coyote,1734,Station 1  ALM,15748,Torque Steps,68870,Front Cover
+97,D532 Lab  Coyote,1735,Station 2  Charge Housing Sub,15750,Torque Steps,68903,33 GC Window
+97,D532 Lab  Coyote,1735,Station 2  Charge Housing Sub,15750,Torque Steps,68905,33 GC to CH
+97,D532 Lab  Coyote,1735,Station 2  Charge Housing Sub,15750,Torque Steps,68907,Retainer Plates
+97,D532 Lab  Coyote,1735,Station 2  Charge Housing Sub,15750,Torque Steps,68906,38 GC to CH
+97,D532 Lab  Coyote,1735,Station 2  Charge Housing Sub,15750,Torque Steps,68904,38 GC Wear Plate
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,70210,Charge Housing Bottom Rear
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,70215,38 GC to CH
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,70482,Charge Housing Install support tube
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,68872,Electrical Panel
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,68900,Charge Housing Install Inside
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,69959,Charge Housing Inside Auger Hole
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,68933,Unload Drive Idler Bracket
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,68897,Floor Bolts
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,68899,Charge Housing Interior
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,68902,Top Cap Install
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,69960,Charge Housing Front
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,70214,Charge Housing Front Top
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,70484,Torque support tube bolts
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,69961,Charge Housing Top Rear
+97,D532 Lab  Coyote,1736,Station 3 Charge Housing Install,15770,Torque Steps,70213,Charge Housing Between Tank & CH
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69024,RH Bearing Plate
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69028,LH Panel
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69023,LH Bearing Plate and Bearing
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69957,Top Rail  Panel
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,70272,Lock Collar Set Screw
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69003,Chain Sprocket Bolts
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69956,Top Rail  Front Bracket
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69004,Chain Sprocket Jam Nuts
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69085,Top Rail  Rear Bracket
+97,D532 Lab  Coyote,1737,Station 4 AugerSprocket Install,15782,Torque Steps,69958,Top Rail  Rear
+97,D532 Lab  Coyote,1738,Station 5 Charge Housing Weld,15714,Dummy Task,68680,Dummy PF6000 Corded

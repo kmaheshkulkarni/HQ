@@ -1,0 +1,29 @@
+---
+title: "REPORT Department Wise"
+date: '`r format(Sys.Date(), paste("_%d%b%Y_%X"))`'
+output:
+  flexdashboard::flex_dashboard:
+       orientation: rows
+       theme: flatly
+runtime: shiny
+---
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Row 
+-----------------------------------------------------------------------
+
+### Top 10 Overrideded Parameter
+```{r echo=FALSE}
+params[["OCP"]]
+```
+
+
+Row 
+-----------------------------------------------------------------------
+
+### Top 25 Over and Under Specfication
+```{r echo=FALSE}
+params[["OUSP"]]
+```

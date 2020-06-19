@@ -1,0 +1,35 @@
+---
+title: "REPORT"
+date: '`r format(Sys.Date(), paste("_%d%b%Y_%X"))`'
+output:
+  flexdashboard::flex_dashboard:
+       orientation: rows
+       theme: flatly
+runtime: shiny
+---
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Row  {data-height=600}
+-----------------------------------------------------------------------
+
+### Actual Paint Consumption (Units in CC) 
+```{r echo=FALSE}
+params[["OCP"]]
+```
+
+
+### Delta Paint Consumption (Units in CC)
+```{r echo=FALSE}
+params[["OPP"]]
+```
+
+
+Row 
+-----------------------------------------------------------------------
+
+### Delta Paint Consumption (Units in CC)
+```{r echo=FALSE}
+params[["OUSP"]]
+```

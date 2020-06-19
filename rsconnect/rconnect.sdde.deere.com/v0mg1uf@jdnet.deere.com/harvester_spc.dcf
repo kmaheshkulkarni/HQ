@@ -1,0 +1,12 @@
+name: harvester_spc
+title: Harvester SPC
+username: v0mg1uf@jdnet.deere.com
+account: v0mg1uf@jdnet.deere.com
+server: rconnect.sdde.deere.com
+hostUrl: https://rconnect.sdde.deere.com/__api__
+appId: 470
+bundleId: 2135
+url: https://rconnect.sdde.deere.com/content/470/
+when: 1591794510.3411
+asMultiple: FALSE
+asStatic: FALSE

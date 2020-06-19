@@ -1,0 +1,102 @@
+---
+title: "SPC REPORT"
+date: '`r format(Sys.Date(), paste("_%d%b%Y_%X"))`'
+output:
+  flexdashboard::flex_dashboard:
+       orientation: rows
+       theme: flatly
+runtime: shiny
+---
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Row
+-----------------------------------------------------------------------
+
+### Vehicle {.value-box}
+```{r echo=FALSE}
+vbox1<- params[["vbox1"]]
+valueBox(
+    value = vbox1,
+    icon = "fa-area-chart",
+    color = "primary"
+  )
+```
+
+
+### JDAAT Accepted {.value-box}
+```{r echo=FALSE}
+vbox2<- params[["vbox2"]]
+valueBox(
+    value = vbox2,
+    icon = "fa-area-chart",
+    color = "warning"
+  )
+```
+
+
+### JDAAT Rejeted {.value-box}
+```{r echo=FALSE}
+vbox3<- params[["vbox3"]]
+valueBox(
+    value = vbox3,
+    icon = "fa-area-chart",
+    color = "primary"
+  )
+```
+
+
+### JDAAT OverRide {.value-box}
+```{r echo=FALSE}
+vbox4<- params[["vbox4"]]
+valueBox(
+    value = vbox4,
+    icon = "fa-area-chart",
+    color = "warning"
+  )
+```
+
+
+### JDAT UCL {.value-box}
+```{r echo=FALSE}
+vbox5<- params[["vbox5"]]
+valueBox(
+    value = vbox5,
+    icon = "fa-area-chart",
+    color = "warning"
+  )
+```
+
+
+### JDAAT LCL {.value-box}
+```{r echo=FALSE}
+vbox6<- params[["vbox6"]]
+valueBox(
+    value = vbox6,
+    icon = "fa-area-chart",
+    color = "primary"
+  )
+```
+
+column
+-----------------------------------------------------------------------
+
+### SPC Chart {data-width=700}
+```{r echo=FALSE}
+params[["spchart"]]
+```
+
+### Interpretation {data-width=340}
+```{r echo=FALSE}
+params[["tables"]]
+```
+
+
+column
+-----------------------------------------------------------------------
+
+### Normal Distribution Chart {data-width=1000}
+```{r echo=FALSE}
+params[["nchart"]]
+```

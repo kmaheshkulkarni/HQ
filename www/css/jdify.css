@@ -1,0 +1,262 @@
+@font-face{
+  font-family: "JDSans";
+  font-size: 13px;
+  src: url("JohnDeereSans.Medium.woff") format('woff');
+}
+
+.content {
+  margin-top: 90px;
+}
+
+.main-header .navbar{
+ background-image:url("img/method-draw-image.svg");
+}
+
+.wrapper{
+  background-color: #FFFFFF;
+}
+
+.content-wrapper{
+  background-color: #FFFFFF;
+}
+
+.skin-blue .main-header .navbar {
+    background-color: #3c8dbc;
+    position: fixed;
+    width: -webkit-fill-available;
+}
+
+.skin-blue .main-header .logo{
+  background-image:url("img/method-draw-image.svg");
+  height: 100px;
+  color: #367c2b;
+  line-height: 80px;
+  position: fixed;
+  font-size: 25px;
+}
+
+.displayedimg{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-header .navbar {
+  height: 100px;
+}
+
+.main-sidebar{
+  padding-top: 100px;
+  position: fixed;
+}
+
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper{
+  background-color: #FFFFFF;
+}
+
+.skin-blue .sidebar-menu>li.active>a, .skin-blue .sidebar-menu>li:hover>a{
+  border-left-color: #feda15;
+  color: #feda15;
+  background: #333;
+}
+
+
+.skin-blue .treeview-menu>li>a{
+  color: #333;
+}
+
+.skin-blue .sidebar a {
+    color: #333;
+    border-top-style: solid;
+    border-top-color: #feda15;
+    border-top-width: 1px;
+}
+
+.skin-blue .sidebar-menu>li>.treeview-menu{
+  background: #333;
+}
+
+.box.box-solid[class*=bg]>.box-header {
+    color: #fff;
+}
+
+.box.box-solid.box-warning>.box-header {
+    color: #feda15;
+    background: #333;
+    background-color: #333;
+}
+
+.box.box-solid.box-success>.box-header {
+    color: #feda15;
+    background: #333;
+    background-color: #333;
+}
+
+.btn-default {
+    background-color: #feda15;
+    color: #367c2b;
+    border-color: #feda15;
+}
+
+.alert-info, .bg-aqua, .callout.callout-info, .label-info, .modal-info .modal-body {
+    background-color: #FFDE00!important;
+}
+
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+    color: #feda15;
+    background-color: #333;
+    opacity: 1;
+}
+
+.alert-warning, .bg-yellow, .callout.callout-warning, .label-warning, .modal-warning .modal-body {
+    background-color: #FFDE00!important;
+}
+
+.datepicker table tr td.active.active, .datepicker table tr td.active.highlighted.active, .datepicker table tr td.active.highlighted:active, .datepicker table tr td.active:active {
+    color: #367c2b;
+    background-color: #feda15;
+    border-color: #feda15;
+}
+
+.box.box-solid.box-primary>.box-header {
+    color: #feda15;
+    background: #333;
+}
+
+.box.box-solid.box-primary>.box-header {
+    color: #333;
+    background: #feda15;
+}
+
+.bttn-fill.bttn-default {
+    background: #feda15;
+    color: #367c2b;
+    margin-top: 21px;
+    margin-left: 15px;
+}
+
+.bttn-fill.bttn-default:before {
+    background: #367c2b;
+}
+
+.box.box-solid.box-warning {
+    border: 1px solid #00a65a;
+}
+
+.skin-blue .left-side, .skin-blue .main-sidebar, .skin-blue .wrapper {
+    background-color: #feda15;
+}
+
+.skin-blue .sidebar-menu .treeview-menu>li>a {
+    color: #feda15;
+}
+
+.navbar-nav>.user-menu .user-image {
+    float: initial;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-right: -5px;
+    margin-top: -2px;
+}
+
+.main-footer {
+    background: #fff;
+    padding: 1px;
+    color: #444;
+    margin-top: 1px;
+    border-top: 1px;
+    height: 70px;
+    margin-bottom: 2px;
+}
+
+.skin-blue .main-header .navbar .nav>li>a {
+    color: #feda15;
+    font-weight: bold;
+    background-color: #333;
+}
+
+.skin-blue .main-header .navbar .nav>li:hover>a {
+    color: #333;
+    background: #feda15;
+}
+
+.skin-blue .main-header .navbar .nav .open>a, .skin-blue .main-header .navbar .nav .open>a:focus, .skin-blue .main-header .navbar .nav .open>a:hover, .skin-blue .main-header .navbar .nav>.active>a, .skin-blue .main-header .navbar .nav>li>a:active, .skin-blue .main-header .navbar .nav>li>a:focus, .skin-blue .main-header .navbar .nav>li>a:hover {
+    background: #333;
+    color: #feda15;
+}
+
+.skin-blue .main-header li.user-header {
+    background-color: #feda15;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>li.user-header>p {
+    z-index: 5;
+    color: #333;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-body a {
+    background: #333!important;
+    color: #feda14!important;
+}
+
+.navbar-nav>.user-menu>.dropdown-menu>.user-body {
+    padding: 15px;
+    border-bottom: 1px solid #333;
+    border-top: 1px solid #feda15;
+    background-color: #333;
+}
+
+.table.shiny-table > thead > tr > th, .table.shiny-table > tbody > tr > th, .table.shiny-table > tfoot > tr > th, .table.shiny-table > thead > tr > td, .table.shiny-table > tbody > tr > td, .table.shiny-table > tfoot > tr > td {
+    padding-right: 12px;
+    padding-top: 20px;
+    padding-bottom: 5px;
+    padding-left: 40px;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
+
+.small-box p {
+    font-family: -webkit-body;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.description-block>.description-text p {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-stretch: expanded;
+    font-weight: bold;
+}
+
+.small-box .icon-large {
+    position: absolute;
+    top: auto;
+    bottom: 5px;
+    right: 5px;
+    font-size: 70px;
+    color: rgba(0, 0, 0, 0.4);
+}
+.bttn-material-flat.bttn-default {
+    background: #feda15;
+    color: #333;
+    margin-bottom: 7px;
+}
+
+.bttn-material-flat.bttn-md {
+    font-size: 15px;
+    font-family: inherit;
+    padding: 3px 10px;
+    margin-top: -250px;
+    margin-left: 90px;
+}
+.bttn-material-flat.bttn-default>a {
+    color: #333;
+    font-size: 17px;
+}
+.material-switch > label {
+    margin-top: 25px;
+}

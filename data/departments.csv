@@ -1,0 +1,58 @@
+DeptID,DeptName
+2,D928 - Engine Line
+3,D925 - Combine
+5,D561 - Draper Assy
+7,D922 - Horseshoe
+8,D925600 - Grain Tank
+10,D965 - Feederhouse
+11,D921 - Body
+13,D927 - Cab
+14,D954 - Grain Tank
+17,D959 - Separator
+18,Training
+19,D532 - Engine Deck
+20,D980 - Packout
+21,D412 - Center Feed
+24,D505 - Assem Train
+28,D960 - Rotor AGV Ln
+29,D924 - Firewall/FPV
+30,D948 - Auger
+31,D404 - RD Belts & CF
+32,D915 - Paint
+33,D530 - FEE Subs
+35,D485 - Cornhead/RU
+36,D490 - BPU
+60,D810 - Inspection
+62,D402 - Cornhead Weld
+63,D140 - Product Audit
+64,D405 - BPU/FP
+65,D403 - RD Weld
+66,D407 - FD Weld
+67,D455 - Flex Platform
+68,D465 - Rigid Draper
+69,D460 - Flex Draper
+70,D475 - Runoff
+72,X-Building
+79,D813 - Torque_Routes
+80,D952 - SideSheetWeld
+82,D550 - Griz Engine
+83,D570 - Griz Main
+84,D520 - Griz Gray Sep
+85,D555 - Griz Post Sep
+86,D532 - Pre-Paint GT
+87,D560 - Griz Post GT
+88,D565 - Griz Body
+90,D402-Cornhead
+91,D405-BPU-Platform
+92,D407-FlexDraper
+93,D408-RU
+94,D470 - Hinged Draper
+95,X-Building
+96,D485 - Talon/Hydra
+97,D532 Lab - Coyote
+98,D430 - Service Parts
+99,D485 - MY19 Cornhead
+100,D490 - BPU
+102,D999 - Automation
+103,D415 - Caribou
+104,D413 - Talon

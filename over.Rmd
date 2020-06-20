@@ -1,0 +1,86 @@
+---
+title: "Override REPORT"
+date: '`r format(Sys.time())`'
+output:
+  flexdashboard::flex_dashboard:
+    orientation: rows
+    theme: flatly
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+```
+
+Parameters
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Top 10 Parameter in OverRide
+
+```{r echo=FALSE}
+params[["TTPO"]]
+```
+
+Stations
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Top 10 Stations in OverRide
+
+```{r echo=FALSE}
+params[["TTSO"]]
+```
+
+
+Departments
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Top 10 Departments in OverRide
+
+```{r echo=FALSE}
+params[["TTDO"]]
+```
+
+Override Code 1
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Top 10 Departments in OverRide
+
+```{r echo=FALSE}
+params[["TTOC1"]]
+```
+
+Override Code 2
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Top 10 Departments in OverRide
+
+```{r echo=FALSE}
+params[["TTOC2"]]
+```
+
+Comments
+=======================================================================
+
+Row
+-----------------------------------------------------------------------
+
+### Top 10 Comments in OverRide
+
+```{r echo=FALSE}
+params[["TTCO"]]
+```

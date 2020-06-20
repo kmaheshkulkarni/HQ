@@ -1378,5 +1378,25 @@ function(input, output, session){
     overrides_by_comment_plot()
   })
   
+  output$over_report <- downloadHandler(
+    filename = function(){
+      paste('Override Parameters Report', format(Sys.time(), paste("%d%b%Y")), '.html', sep = '')
+    },
+    content = function(file) {
+      params <- list(TTPO = parameter_issue_plot_gen(), TTSO = overrides_by_station_plt(), 
+                     TTDO = overrides_by_department_plot(),
+                     TTOC1 = overrides_by_person_plot(), TTOC2 = overrides_by_oc_code_plot(),
+                     TTCO = overrides_by_comment_plot()
+                     )
+      src <- normalizePath('over.Rmd')
+      owd <- setwd(tempdir())
+      on.exit(setwd(owd))
+      file.copy(src, 'over.Rmd', overwrite = TRUE)
+      out <- rmarkdown::render('over.Rmd', output_format = flexdashboard::flex_dashboard())
+      file.rename(out, file)
+      # Get a nicely formatted date/time string
+    }
+  )
+  
 }
 #=================================================================================== END ========================================================================================

@@ -1,6 +1,6 @@
 ---
-title: "REPORT Department Wise"
-date: '`r format(Sys.Date(), paste("_%d%b%Y_%X"))`'
+title: "Department Updates"
+date: '`r format(Sys.time())`'
 output:
   flexdashboard::flex_dashboard:
        orientation: rows

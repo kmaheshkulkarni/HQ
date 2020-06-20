@@ -1,9 +1,9 @@
 ---
 title: "SPC REPORT"
-date: '`r format(Sys.Date(), paste("_%d%b%Y_%X"))`'
+date: '`r format(Sys.time())`'
 output:
   flexdashboard::flex_dashboard:
-       orientation: rows
+       orientation: columns
        theme: flatly
 runtime: shiny
 ---
@@ -11,7 +11,10 @@ runtime: shiny
 library(flexdashboard)
 ```
 
-Row
+SPC Chart
+=======================================================================
+
+column {data-width=200}
 -----------------------------------------------------------------------
 
 ### Vehicle {.value-box}
@@ -79,24 +82,31 @@ valueBox(
   )
 ```
 
-column
+column {data-width=800}
 -----------------------------------------------------------------------
 
-### SPC Chart {data-width=700}
+### SPC Chart
+
 ```{r echo=FALSE}
 params[["spchart"]]
 ```
 
-### Interpretation {data-width=340}
-```{r echo=FALSE}
-params[["tables"]]
-```
 
+Normal Distribution
+=======================================================================
 
-column
+column {data-width=750}
 -----------------------------------------------------------------------
 
-### Normal Distribution Chart {data-width=1000}
+### Normal Distribution Chart
 ```{r echo=FALSE}
 params[["nchart"]]
+```
+
+column {data-width=250}
+-----------------------------------------------------------------------
+
+### Interpretation 
+```{r echo=FALSE}
+knitr::kable(params[["tables"]])
 ```
